@@ -568,3 +568,294 @@ Script call stack:
 	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:Timeline_0__UpdateFunc
 	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:ExecuteUbergraph_BP_CirclePiece
 
+[2017.01.03-20.55.58:643][593]LogEditorViewport: Clicking on Actor (LMB): BP_CirclePiece_C (BP_CirclePiece)
+[2017.01.03-20.56.03:004][ 45]LogUObjectHash:Warning: Ambiguous search, could be Blueprint /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece or BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece
+[2017.01.03-20.56.03:004][ 45]LogUObjectHash:Warning: Ambiguous search, could be Blueprint /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece or BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece
+[2017.01.03-20.56.03:004][ 45]Warning: Unable to find function Timeline_0__UpdateFunc in object BP_CirclePiece for delegate (found class: Blueprint)Unable to find function Timeline_0__FinishedFunc in object BP_CirclePiece for delegate (found class: Blueprint)
+[2017.01.03-20.56.03:005][ 45]LogUObjectHash:Warning: Ambiguous search, could be Blueprint /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece or BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece
+[2017.01.03-20.56.03:005][ 45]LogUObjectHash:Warning: Ambiguous search, could be Blueprint /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece or BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece
+[2017.01.03-20.56.03:005][ 45]Warning: Unable to find function TL_ColourChange__UpdateFunc in object BP_CirclePiece for delegate (found class: Blueprint)Unable to find function TL_ColourChange__FinishedFunc in object BP_CirclePiece for delegate (found class: Blueprint)
+[2017.01.03-20.56.17:140][246]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_CirclePiece_C (BP_CirclePiece)
+[2017.01.03-20.56.18:221][281]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_CirclePiece_C (BP_CirclePiece2)
+[2017.01.03-20.56.20:716][373]LogUObjectHash:Warning: Ambiguous search, could be Blueprint /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece or BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece
+[2017.01.03-20.56.20:716][373]LogUObjectHash:Warning: Ambiguous search, could be Blueprint /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece or BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece
+[2017.01.03-20.56.20:716][373]Warning: Unable to find function Timeline_0__UpdateFunc in object BP_CirclePiece for delegate (found class: Blueprint)Unable to find function Timeline_0__FinishedFunc in object BP_CirclePiece for delegate (found class: Blueprint)
+[2017.01.03-20.56.20:717][373]LogUObjectHash:Warning: Ambiguous search, could be Blueprint /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece or BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece
+[2017.01.03-20.56.20:717][373]LogUObjectHash:Warning: Ambiguous search, could be Blueprint /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece or BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece
+[2017.01.03-20.56.20:717][373]Warning: Unable to find function TL_ColourChange__UpdateFunc in object BP_CirclePiece for delegate (found class: Blueprint)Unable to find function TL_ColourChange__FinishedFunc in object BP_CirclePiece for delegate (found class: Blueprint)
+[2017.01.03-20.56.33:093][725]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.03-20.56.33:133][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.03-20.56.33:134][725]PIE: New page: PIE session: GameLevel (3 Jan 2017 20:56:33)
+[2017.01.03-20.56.33:134][725]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GameLevel
+[2017.01.03-20.56.33:148][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013489s)
+[2017.01.03-20.56.33:149][725]LogAIModule: Creating AISystem for world GameLevel
+[2017.01.03-20.56.33:150][725]LogPlayLevel: PIE: World Init took: (0.002115s)
+[2017.01.03-20.56.33:150][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GameLevel.GameLevel to /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel (0.016259s)
+[2017.01.03-20.56.33:212][725]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.03-20.56.33:234][725]LogInit: FAudioDevice initialized.
+[2017.01.03-20.56.33:338][725]LogLoad: Game class is 'BP_GameMode_C'
+[2017.01.03-20.56.33:347][725]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.01.03-20.56.33
+[2017.01.03-20.56.33:348][725]LogWorld: Bringing up level for play took: 0.007165
+[2017.01.03-20.56.33:353][725]PIE: Info Play in editor start time for /Game/Assets/Levels/UEDPIE_0_GameLevel -0.111
+[2017.01.03-20.56.50:815][472]LogEditorViewport: Clicking on Actor (LMB): BP_GameBoard_C (BP_GameBoard)
+[2017.01.03-20.56.58:555][761]Cmd: TRANSACTION UNDO
+[2017.01.03-20.56.58:556][761]LogEditorTransaction: Undo Move Actors
+[2017.01.03-20.57.06:511][ 22]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2017.01.03-20.57.09:052][ 99]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.01.03-20.57.13:382][297]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.03-20.57.13:420][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.03-20.57.13:420][297]PIE: New page: PIE session: GameLevel (3 Jan 2017 20:57:13)
+[2017.01.03-20.57.13:421][297]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GameLevel
+[2017.01.03-20.57.13:435][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014153s)
+[2017.01.03-20.57.13:437][297]LogAIModule: Creating AISystem for world GameLevel
+[2017.01.03-20.57.13:437][297]LogPlayLevel: PIE: World Init took: (0.001909s)
+[2017.01.03-20.57.13:438][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GameLevel.GameLevel to /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel (0.016955s)
+[2017.01.03-20.57.13:491][297]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.03-20.57.13:512][297]LogInit: FAudioDevice initialized.
+[2017.01.03-20.57.13:602][297]LogLoad: Game class is 'BP_GameMode_C'
+[2017.01.03-20.57.13:610][297]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.01.03-20.57.13
+[2017.01.03-20.57.13:611][297]LogWorld: Bringing up level for play took: 0.005593
+[2017.01.03-20.57.13:615][297]PIE: Info Play in editor start time for /Game/Assets/Levels/UEDPIE_0_GameLevel 0.151
+[2017.01.03-20.57.28:769][927]LogEditorViewport: Clicking on Actor (LMB): BP_CirclePiece_C (BP_CirclePiece5)
+[2017.01.03-20.57.29:710][949]LogEditorViewport: Clicking on Actor (LMB): BP_CirclePiece_C (BP_CirclePiece5)
+[2017.01.03-20.57.31:236][993]LogEditorViewport: Clicking Background
+[2017.01.03-20.57.32:000][ 18]LogEditorViewport: Clicking Background
+[2017.01.03-20.57.57:041][252]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.01.03-20.57.57:041][252]LogBlueprintUserMessages: [BP_CirclePiece_C_7] Refrence not Valid
+[2017.01.03-21.01.58:341][662]LogSavePackage: Save=122.04ms
+[2017.01.03-21.01.58:341][662]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/GameLevel_Auto4362412D64B2324304E3AA3A95E846926.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Levels/GameLevel_Auto4.umap'
+[2017.01.03-21.01.58:346][662]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Levels/GameLevel_Auto4.umap
+[2017.01.03-21.01.58:405][662]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Levels/GameLevel' took 0.267
+[2017.01.03-21.01.58:405][662]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.267
+[2017.01.03-21.01.58:411][662]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/BP_CirclePiece] ([1] browsable assets)...
+[2017.01.03-21.01.58:479][662]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece]
+[2017.01.03-21.01.58:479][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/BP_CirclePiece]
+[2017.01.03-21.01.58:603][662]LogSavePackage: Save=109.67ms
+[2017.01.03-21.01.58:604][662]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/BP_CirclePiece_Auto4DA1A484A430D453EF8761AAFAA94638D.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Blueprints/BP_CirclePiece_Auto4.uasset'
+[2017.01.03-21.01.58:615][662]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Blueprints/BP_CirclePiece_Auto4.uasset
+[2017.01.03-21.01.58:616][662]LogFileHelpers: Auto-saving content packages took 0.207
+[2017.01.03-21.03.12:224][930]LogEditorViewport: Clicking Background
+[2017.01.03-21.03.12:931][961]LogEditorViewport: Clicking Background
+[2017.01.03-21.03.13:819][  7]LogEditorViewport: Clicking Background
+[2017.01.03-21.03.14:520][ 41]LogEditorViewport: Clicking on Actor (LMB): BP_GameBoard_C (BP_GameBoard)
+[2017.01.03-21.03.17:529][133]LogEditorViewport: Clicking Background
+[2017.01.03-21.03.30:288][713]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2017.01.03-21.03.32:235][793]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.01.03-21.03.34:654][882]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.01.03-21.03.36:026][936]LogEditorViewport: Clicking on Actor (LMB): BP_CirclePiece_C (BP_CirclePiece21)
+[2017.01.03-21.03.57:614][701]LogEditorViewport: Clicking Background
+[2017.01.03-21.04.00:751][834]LogEditorViewport: Clicking on Actor (LMB): BP_CirclePiece_C (BP_CirclePiece20)
+[2017.01.03-21.04.07:623][ 56]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.07:636][ 56]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.07:639][ 56]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.07:641][ 56]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.07:644][ 56]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.07:646][ 56]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.07:649][ 56]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.07:651][ 56]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.07:654][ 56]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.07:656][ 56]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.07:658][ 56]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.07:661][ 56]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.07:663][ 56]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.07:665][ 56]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.07:667][ 56]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.07:669][ 56]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.07:672][ 56]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.07:674][ 56]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.07:731][ 56]LogEditorActor: Deleted 18 Actors (0.109 secs)
+[2017.01.03-21.04.11:842][227]Cmd: TRANSACTION UNDO
+[2017.01.03-21.04.11:842][227]LogEditorTransaction: Undo Clicking on Actors
+[2017.01.03-21.04.13:037][270]Cmd: TRANSACTION UNDO
+[2017.01.03-21.04.13:037][270]LogEditorTransaction: Undo Delete selection
+[2017.01.03-21.04.17:298][401]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.17:316][401]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.17:319][401]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.17:321][401]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.17:324][401]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.17:327][401]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.17:329][401]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.17:331][401]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.17:333][401]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.17:336][401]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.17:338][401]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.17:340][401]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.17:343][401]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.17:345][401]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.17:347][401]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.17:349][401]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.17:352][401]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.17:354][401]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.17:357][401]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.17:359][401]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.17:361][401]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.17:364][401]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.17:366][401]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.17:368][401]LogEditorActor: Deleted Actor: BP_CirclePiece_C
+[2017.01.03-21.04.17:418][401]LogEditorActor: Deleted 24 Actors (0.120 secs)
+[2017.01.03-21.04.19:261][485]LogEditorViewport: Clicking on Actor (LMB): BP_CirclePiece_C (BP_CirclePiece)
+[2017.01.03-21.04.20:227][518]LogEditorViewport: Clicking on Actor (LMB): BP_GameBoard_C (BP_GameBoard)
+[2017.01.03-21.04.53:478][893]LogEditorViewport: Clicking Background
+[2017.01.03-21.04.54:083][919]LogEditorViewport: Clicking on Actor (LMB): BP_CirclePiece_C (BP_CirclePiece)
+[2017.01.03-21.05.09:498][488]LogUObjectHash:Warning: Ambiguous search, could be Blueprint /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece or BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece
+[2017.01.03-21.05.09:499][488]LogUObjectHash:Warning: Ambiguous search, could be Blueprint /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece or BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece
+[2017.01.03-21.05.09:499][488]Warning: Unable to find function Timeline_0__UpdateFunc in object BP_CirclePiece for delegate (found class: Blueprint)Unable to find function Timeline_0__FinishedFunc in object BP_CirclePiece for delegate (found class: Blueprint)
+[2017.01.03-21.05.09:499][488]LogUObjectHash:Warning: Ambiguous search, could be Blueprint /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece or BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece
+[2017.01.03-21.05.09:499][488]LogUObjectHash:Warning: Ambiguous search, could be Blueprint /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece or BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece
+[2017.01.03-21.05.09:499][488]Warning: Unable to find function TL_ColourChange__UpdateFunc in object BP_CirclePiece for delegate (found class: Blueprint)Unable to find function TL_ColourChange__FinishedFunc in object BP_CirclePiece for delegate (found class: Blueprint)
+[2017.01.03-21.05.42:284][478]LogEditorViewport: Clicking on Actor (LMB): BP_CirclePiece_C (BP_CirclePiece4)
+[2017.01.03-21.05.46:699][608]LogEditorViewport: Clicking on Actor (LMB): BP_CirclePiece_C (BP_CirclePiece2)
+[2017.01.03-21.05.58:478][ 73]LogEditorViewport: Clicking Background
+[2017.01.03-21.06.04:180][328]LogUObjectHash:Warning: Ambiguous search, could be Blueprint /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece or BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece
+[2017.01.03-21.06.04:180][328]LogUObjectHash:Warning: Ambiguous search, could be Blueprint /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece or BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece
+[2017.01.03-21.06.04:180][328]Warning: Unable to find function Timeline_0__UpdateFunc in object BP_CirclePiece for delegate (found class: Blueprint)Unable to find function Timeline_0__FinishedFunc in object BP_CirclePiece for delegate (found class: Blueprint)
+[2017.01.03-21.06.04:181][328]LogUObjectHash:Warning: Ambiguous search, could be Blueprint /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece or BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece
+[2017.01.03-21.06.04:181][328]LogUObjectHash:Warning: Ambiguous search, could be Blueprint /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece or BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece
+[2017.01.03-21.06.04:181][328]Warning: Unable to find function TL_ColourChange__UpdateFunc in object BP_CirclePiece for delegate (found class: Blueprint)Unable to find function TL_ColourChange__FinishedFunc in object BP_CirclePiece for delegate (found class: Blueprint)
+[2017.01.03-21.06.34:478][118]LogEditorViewport: Clicking on Actor (LMB): BP_CirclePiece_C (BP_CirclePiece10)
+[2017.01.03-21.06.51:807][681]LogEditorViewport: Clicking on Actor (LMB): BP_CirclePiece_C (BP_CirclePiece16)
+[2017.01.03-21.06.55:156][812]LogEditorViewport: Clicking on Actor (LMB): BP_CirclePiece_C (BP_CirclePiece11)
+[2017.01.03-21.06.56:520][863]LogEditorViewport: Clicking on Actor (LMB): BP_CirclePiece_C (BP_CirclePiece16)
+[2017.01.03-21.07.02:246][ 62]LogEditorViewport: Clicking Background
+[2017.01.03-21.07.02:803][ 83]LogEditorViewport: Clicking on Actor (LMB): BP_CirclePiece_C (BP_CirclePiece6)
+[2017.01.03-21.07.42:305][295]LogEditorViewport: Clicking Background
+[2017.01.03-21.07.42:854][340]LogEditorViewport: Clicking on Actor (LMB): BP_CirclePiece_C (BP_CirclePiece6)
+[2017.01.03-21.07.52:149][ 21]LogEditorViewport: Clicking on Actor (LMB): BP_CirclePiece_C (BP_CirclePiece7)
+[2017.01.03-21.07.54:782][241]LogEditorViewport: Clicking on Actor (LMB): BP_CirclePiece_C (BP_CirclePiece8)
+[2017.01.03-21.07.57:489][443]LogEditorViewport: Clicking on Actor (LMB): BP_CirclePiece_C (BP_CirclePiece10)
+[2017.01.03-21.07.59:859][632]LogEditorViewport: Clicking on Actor (LMB): BP_CirclePiece_C (BP_CirclePiece9)
+[2017.01.03-21.08.02:435][829]LogEditorViewport: Clicking Background
+[2017.01.03-21.08.06:695][233]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2017.01.03-21.08.11:145][589]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2017.01.03-21.08.28:906][494]LogEditorViewport: Clicking Background
+[2017.01.03-21.08.31:217][584]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.03-21.08.31:258][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.03-21.08.31:259][584]PIE: New page: PIE session: GameLevel (3 Jan 2017 21:08:31)
+[2017.01.03-21.08.31:259][584]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GameLevel
+[2017.01.03-21.08.31:273][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014033s)
+[2017.01.03-21.08.31:276][584]LogAIModule: Creating AISystem for world GameLevel
+[2017.01.03-21.08.31:277][584]LogPlayLevel: PIE: World Init took: (0.003707s)
+[2017.01.03-21.08.31:277][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GameLevel.GameLevel to /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel (0.018424s)
+[2017.01.03-21.08.31:360][584]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.03-21.08.31:381][584]LogInit: FAudioDevice initialized.
+[2017.01.03-21.08.31:428][584]LogLoad: Game class is 'BP_GameMode_C'
+[2017.01.03-21.08.31:438][584]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.01.03-21.08.31
+[2017.01.03-21.08.31:439][584]LogWorld: Bringing up level for play took: 0.006875
+[2017.01.03-21.08.31:444][584]PIE: Info Play in editor start time for /Game/Assets/Levels/UEDPIE_0_GameLevel 0.004
+[2017.01.03-21.08.40:648][969]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2017.01.03-21.08.45:439][177]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.01.03-21.08.46:686][224]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.03-21.08.46:724][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.03-21.08.46:724][224]PIE: New page: PIE session: GameLevel (3 Jan 2017 21:08:46)
+[2017.01.03-21.08.46:725][224]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GameLevel
+[2017.01.03-21.08.46:738][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012801s)
+[2017.01.03-21.08.46:739][224]LogAIModule: Creating AISystem for world GameLevel
+[2017.01.03-21.08.46:739][224]LogPlayLevel: PIE: World Init took: (0.001794s)
+[2017.01.03-21.08.46:740][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GameLevel.GameLevel to /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel (0.015252s)
+[2017.01.03-21.08.46:795][224]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.03-21.08.46:817][224]LogInit: FAudioDevice initialized.
+[2017.01.03-21.08.46:908][224]LogLoad: Game class is 'BP_GameMode_C'
+[2017.01.03-21.08.46:917][224]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.01.03-21.08.46
+[2017.01.03-21.08.46:918][224]LogWorld: Bringing up level for play took: 0.006519
+[2017.01.03-21.08.46:922][224]PIE: Info Play in editor start time for /Game/Assets/Levels/UEDPIE_0_GameLevel -0.518
+[2017.01.03-21.08.49:656][352]LogEditorViewport: Clicking on Actor (LMB): BP_CirclePiece_C (BP_CirclePiece7)
+[2017.01.03-21.09.12:367][790]LogSavePackage: Save=120.60ms
+[2017.01.03-21.09.12:367][790]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/GameLevel4D16FC914467DB211AB4A18F7F61933D.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Levels/GameLevel.umap'
+[2017.01.03-21.09.12:383][790]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Levels/GameLevel.umap
+[2017.01.03-21.09.12:873][802]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.01.03-21.09.12:874][802]LogBlueprintUserMessages: [BP_CirclePiece_C_7] Refrence not Valid
+[2017.01.03-21.09.14:171][854]LogSavePackage: Save=87.84ms
+[2017.01.03-21.09.14:171][854]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/BP_CirclePiece0DB95C3F4FD244E3B7AD1E9DA3D2B1D0.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Blueprints/BP_CirclePiece.uasset'
+[2017.01.03-21.09.14:181][854]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Blueprints/BP_CirclePiece.uasset
+[2017.01.03-21.12.32:707][263]BlueprintLog: New page: Compile BP_GameBoard
+[2017.01.03-21.12.32:985][263]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.01.03-21.12.32:985][263]LogBlueprintUserMessages: [BP_CirclePiece_C_7] Refrence not Valid
+[2017.01.03-21.12.32:985][263]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.01.03-21.12.32:985][263]LogBlueprintUserMessages: [BP_CirclePiece_C_10] Refrence not Valid
+[2017.01.03-21.12.33:002][263]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.01.03-21.12.33:002][263]LogBlueprintUserMessages: [BP_CirclePiece_C_7] Refrence not Valid
+[2017.01.03-21.12.33:003][263]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.01.03-21.12.33:003][263]LogBlueprintUserMessages: [BP_CirclePiece_C_10] Refrence not Valid
+[2017.01.03-21.12.35:265][507]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.01.03-21.12.35:265][507]LogBlueprintUserMessages: [BP_CirclePiece_C_7] Refrence not Valid
+[2017.01.03-21.13.25:787][508]BlueprintLog: New page: Compile BP_CirclePiece
+[2017.01.03-21.13.25:864][508]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.01.03-21.13.25:864][508]LogBlueprintUserMessages: [BP_CirclePiece_C_7] Refrence not Valid
+[2017.01.03-21.13.25:866][508]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.01.03-21.13.25:866][508]LogBlueprintUserMessages: [BP_CirclePiece_C_10] Refrence not Valid
+[2017.01.03-21.13.26:197][508]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.01.03-21.13.26:197][508]LogBlueprintUserMessages: [BP_CirclePiece_C_7] Refrence not Valid
+[2017.01.03-21.13.26:199][508]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.01.03-21.13.26:199][508]LogBlueprintUserMessages: [BP_CirclePiece_C_10] Refrence not Valid
+[2017.01.03-21.19.37:087][340]LogSavePackage: Save=31.24ms
+[2017.01.03-21.19.37:087][340]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/GameLevel_Auto54539370748993B1E329A178FD58150B0.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Levels/GameLevel_Auto5.umap'
+[2017.01.03-21.19.37:089][340]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Levels/GameLevel_Auto5.umap
+[2017.01.03-21.19.37:090][340]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Levels/GameLevel' took 0.060
+[2017.01.03-21.19.37:090][340]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.060
+[2017.01.03-21.19.37:093][340]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/BP_CirclePiece] ([1] browsable assets)...
+[2017.01.03-21.19.37:138][340]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece]
+[2017.01.03-21.19.37:138][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/BP_CirclePiece]
+[2017.01.03-21.19.37:172][340]LogSavePackage: Save=29.14ms
+[2017.01.03-21.19.37:172][340]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/BP_CirclePiece_Auto502C38D2F43E2B071AA0EE088AADB7B32.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Blueprints/BP_CirclePiece_Auto5.uasset'
+[2017.01.03-21.19.37:173][340]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Blueprints/BP_CirclePiece_Auto5.uasset
+[2017.01.03-21.19.37:174][340]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/BP_GameBoard] ([1] browsable assets)...
+[2017.01.03-21.19.37:219][340]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/BP_GameBoard.BP_GameBoard]
+[2017.01.03-21.19.37:219][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/BP_GameBoard]
+[2017.01.03-21.19.37:242][340]LogSavePackage: Save=18.20ms
+[2017.01.03-21.19.37:242][340]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/BP_GameBoard_Auto53B2A165246687ABBCA4276B468C1B7F3.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Blueprints/BP_GameBoard_Auto5.uasset'
+[2017.01.03-21.19.37:243][340]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Blueprints/BP_GameBoard_Auto5.uasset
+[2017.01.03-21.19.37:243][340]LogFileHelpers: Auto-saving content packages took 0.150
+[2017.01.03-21.22.38:651][716]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.03-21.22.38:692][716]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.01.03-21.22.38:692][716]LogPlayLevel: [PlayLevel] Compiling BP_GameBoard before play...
+[2017.01.03-21.22.38:988][716]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.01.03-21.22.38:988][716]LogBlueprintUserMessages: [BP_CirclePiece_C_7] Refrence not Valid
+[2017.01.03-21.22.38:990][716]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.01.03-21.22.38:990][716]LogBlueprintUserMessages: [BP_CirclePiece_C_10] Refrence not Valid
+[2017.01.03-21.22.39:111][716]LogPlayLevel: PlayLevel: Blueprint regeneration took 419 ms (1 blueprints)
+[2017.01.03-21.22.39:112][716]PIE: New page: PIE session: GameLevel (3 Jan 2017 21:22:39)
+[2017.01.03-21.22.39:112][716]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GameLevel
+[2017.01.03-21.22.39:124][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011938s)
+[2017.01.03-21.22.39:126][716]LogAIModule: Creating AISystem for world GameLevel
+[2017.01.03-21.22.39:126][716]LogPlayLevel: PIE: World Init took: (0.002064s)
+[2017.01.03-21.22.39:127][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GameLevel.GameLevel to /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel (0.014642s)
+[2017.01.03-21.22.39:182][716]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.03-21.22.39:205][716]LogInit: FAudioDevice initialized.
+[2017.01.03-21.22.39:251][716]LogLoad: Game class is 'BP_GameMode_C'
+[2017.01.03-21.22.39:259][716]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.01.03-21.22.39
+[2017.01.03-21.22.39:260][716]LogWorld: Bringing up level for play took: 0.005965
+[2017.01.03-21.22.39:264][716]PIE: Info Play in editor start time for /Game/Assets/Levels/UEDPIE_0_GameLevel -0.162
+[2017.01.03-21.24.34:884][ 19]LogEditorViewport: Clicking Background
+[2017.01.03-21.24.35:023][ 24]LogEditorViewport: Clicking Background
+[2017.01.03-21.24.37:525][127]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.03-21.24.37:565][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.03-21.24.37:566][127]PIE: New page: PIE session: GameLevel (3 Jan 2017 21:24:37)
+[2017.01.03-21.24.37:566][127]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GameLevel
+[2017.01.03-21.24.37:580][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013909s)
+[2017.01.03-21.24.37:582][127]LogAIModule: Creating AISystem for world GameLevel
+[2017.01.03-21.24.37:583][127]LogPlayLevel: PIE: World Init took: (0.002358s)
+[2017.01.03-21.24.37:583][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GameLevel.GameLevel to /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel (0.017078s)
+[2017.01.03-21.24.37:646][127]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.03-21.24.37:670][127]LogInit: FAudioDevice initialized.
+[2017.01.03-21.24.37:766][127]LogLoad: Game class is 'BP_GameMode_C'
+[2017.01.03-21.24.37:775][127]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.01.03-21.24.37
+[2017.01.03-21.24.37:776][127]LogWorld: Bringing up level for play took: 0.006343
+[2017.01.03-21.24.37:780][127]PIE: Info Play in editor start time for /Game/Assets/Levels/UEDPIE_0_GameLevel 0.354
+[2017.01.03-21.29.51:267][584]LogSavePackage: Save=117.45ms
+[2017.01.03-21.29.51:267][584]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/GameLevel_Auto634E8D236440B1C815D6835877FD98438.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Levels/GameLevel_Auto6.umap'
+[2017.01.03-21.29.51:274][584]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Levels/GameLevel_Auto6.umap
+[2017.01.03-21.29.51:342][584]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Levels/GameLevel' took 0.271
+[2017.01.03-21.29.51:342][584]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.271
+[2017.01.03-21.29.51:348][584]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/BP_CirclePiece] ([1] browsable assets)...
+[2017.01.03-21.29.51:413][584]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece]
+[2017.01.03-21.29.51:413][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/BP_CirclePiece]
+[2017.01.03-21.29.51:543][584]LogSavePackage: Save=113.13ms
+[2017.01.03-21.29.51:545][584]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/BP_CirclePiece_Auto6EAF32FBE449E177CD5E5DB971ADF8ADD.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Blueprints/BP_CirclePiece_Auto6.uasset'
+[2017.01.03-21.29.51:553][584]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Blueprints/BP_CirclePiece_Auto6.uasset
+[2017.01.03-21.29.51:557][584]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/BP_GameBoard] ([1] browsable assets)...
+[2017.01.03-21.29.51:660][584]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/BP_GameBoard.BP_GameBoard]
+[2017.01.03-21.29.51:660][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/BP_GameBoard]
+[2017.01.03-21.29.51:750][584]LogSavePackage: Save=72.63ms
+[2017.01.03-21.29.51:750][584]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/BP_GameBoard_Auto6BB741F8D4C6BE7CB0E4049B010241A7F.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Blueprints/BP_GameBoard_Auto6.uasset'
+[2017.01.03-21.29.51:754][584]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Blueprints/BP_GameBoard_Auto6.uasset
+[2017.01.03-21.29.51:754][584]LogFileHelpers: Auto-saving content packages took 0.409
