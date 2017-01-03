@@ -1,0 +1,1418 @@
+﻿Log file open, 01/03/17 17:29:39
+LogInit:Display: Running engine for game: NaughtsNCrosses
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-555292757) SRandInit(-555292757).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.080613
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3224400
+LogInit: Engine Version: 4.14.1-3224400+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Dec  7 2016 02:14:32
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.01.03-17.29.39:722][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.03-17.29.39:722][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.01.03-17.29.39:785][  0]LogInit: Computer: USER-PC
+[2017.01.03-17.29.39:785][  0]LogInit: User: User
+[2017.01.03-17.29.39:785][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.01.03-17.29.39:785][  0]LogInit: High frequency timer resolution =2.240927 MHz
+[2017.01.03-17.29.39:785][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.01.03-17.29.39:785][  0]LogMemory: Platform Memory Stats for Windows
+[2017.01.03-17.29.39:785][  0]LogMemory: Process Physical Memory: 266.89 MB used, 266.89 MB peak
+[2017.01.03-17.29.39:785][  0]LogMemory: Process Virtual Memory: 265.92 MB used, 265.92 MB peak
+[2017.01.03-17.29.39:785][  0]LogMemory: Physical Memory: 3452.78 MB used,  12839.55 MB free, 16292.33 MB total
+[2017.01.03-17.29.39:785][  0]LogMemory: Virtual Memory: 664.41 MB used,  12839.55 MB free, 8388608.00 MB total
+[2017.01.03-17.29.40:406][  0]LogTextLocalizationManager: No specific translations for ('en-GB') exist, so ('en') translations will be used.
+[2017.01.03-17.29.42:680][  0]LogD3D11RHI: D3D11 adapters:
+[2017.01.03-17.29.43:188][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 745M' (Feature Level 11_0)
+[2017.01.03-17.29.43:188][  0]LogD3D11RHI:       1991/0/7890 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.01.03-17.29.43:203][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GT 745M' (Feature Level 11_0)
+[2017.01.03-17.29.43:203][  0]LogD3D11RHI:       1991/0/7890 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2017.01.03-17.29.43:203][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.01.03-17.29.43:210][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.01.03-17.29.43:210][  0]LogD3D11RHI:     GPU DeviceId: 0xfe3 (for the marketing name, search the web for "GPU Device Id")
+[2017.01.03-17.29.43:210][  0]LogWindows: EnumDisplayDevices:
+[2017.01.03-17.29.43:210][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2017.01.03-17.29.43:210][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:1)
+[2017.01.03-17.29.43:210][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.01.03-17.29.43:210][  0]LogWindows:    3. 'NVIDIA GeForce GT 745M' (P:0 D:0)
+[2017.01.03-17.29.43:210][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2017.01.03-17.29.43:210][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.01.03-17.29.43:210][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.01.03-17.29.43:210][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter 
+[2017.01.03-17.29.43:211][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 745M
+[2017.01.03-17.29.43:211][  0]LogD3D11RHI:   Driver Version: 376.33 (internal:21.21.13.7633, unified:376.33)
+[2017.01.03-17.29.43:211][  0]LogD3D11RHI:      Driver Date: 12-11-2016
+[2017.01.03-17.29.43:211][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.01.03-17.29.43:228][  0]LogD3D11RHI: Async texture creation enabled
+[2017.01.03-17.29.43:243][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.01.03-17.29.43:243][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Intermediate/Shaders/WorkingDirectory/6788/).
+[2017.01.03-17.29.43:243][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/B192D5094B38CAAD0D98309493BC714A/'.
+[2017.01.03-17.29.43:243][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.01.03-17.29.45:701][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.01.03-17.29.45:757][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.01.03-17.29.45:814][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.01.03-17.29.45:871][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.01.03-17.29.45:945][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.01.03-17.29.46:002][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.01.03-17.29.46:059][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.01.03-17.29.46:116][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.01.03-17.29.46:162][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.01.03-17.29.46:233][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.01.03-17.29.46:289][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.01.03-17.29.46:344][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.01.03-17.29.46:400][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.01.03-17.29.46:456][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.01.03-17.29.46:512][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.01.03-17.29.46:626][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.01.03-17.29.46:626][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.01.03-17.29.46:664][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.01.03-17.29.46:766][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.01.03-17.29.46:799][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.01.03-17.29.46:854][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.01.03-17.29.46:909][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.01.03-17.29.46:964][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.01.03-17.29.47:020][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.01.03-17.29.47:020][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.01.03-17.29.47:376][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.01.03-17.29.49:018][  0]LogDerivedDataCache: Loaded boot cache 1.64s 50MB C:/Users/User/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.03-17.29.49:018][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.01.03-17.29.49:018][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.01.03-17.29.49:018][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.01.03-17.29.49:018][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.01.03-17.29.49:018][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.01.03-17.29.49:071][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.01.03-17.29.49:083][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.01.03-17.29.51:696][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.03-17.29.51:723][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.01.03-17.29.52:225][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.01.03-17.29.52:268][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.01.03-17.29.52:314][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.01.03-17.29.52:314][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.01.03-17.29.52:314][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.01.03-17.29.55:314][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: naughtsncrosses, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3716353187
+[2017.01.03-17.29.55:379][  0]LogAssetRegistry: FAssetRegistry took 0.0206 seconds to start up
+[2017.01.03-17.29.55:420][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.023534 seconds
+[2017.01.03-17.29.55:426][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.01.03-17.29.55:426][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2017.01.03-17.29.55:426][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.01.03-17.29.55:480][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.01.03-17.29.56:728][  0]LogSlate: Using Freetype 2.6.0
+[2017.01.03-17.29.56:771][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.03-17.29.56:771][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.03-17.30.04:550][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.01.03-17.30.04:586][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.01.03-17.30.05:064][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.01.03-17.30.05:548][  0]SourceControl: Info Source control is disabled
+[2017.01.03-17.30.05:682][  0]SourceControl: Info Source control is disabled
+[2017.01.03-17.30.05:729][  0]SourceControl: Info Source control is disabled
+[2017.01.03-17.30.05:774][  0]SourceControl: Info Source control is disabled
+[2017.01.03-17.30.07:172][  0]LogEngine: Initializing Engine...
+[2017.01.03-17.30.07:172][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.01.03-17.30.07:888][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.01.03-17.30.07:896][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.03-17.30.07:916][  0]LogInit: FAudioDevice initialized.
+[2017.01.03-17.30.07:957][  0]LogDerivedDataCache: Saved boot cache 0.04s 50MB C:/Users/User/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.03-17.30.07:963][  0]LogInit: Texture streaming: Enabled
+[2017.01.03-17.30.08:357][  0]LogInit: Transaction tracking system initialized
+[2017.01.03-17.30.08:702][  0]BlueprintLog: New page: Editor Load
+[2017.01.03-17.30.10:835][  0]LocalizationService: Info Localization service is disabled
+[2017.01.03-17.30.11:550][  0]LogConsoleResponse:Display: 
+[2017.01.03-17.30.14:169][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.01.03-17.30.14:169][  0]LogCook:Display: Mobile HDR setting 1
+[2017.01.03-17.30.14:609][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/' took 0.01s
+[2017.01.03-17.30.16:372][  0]SourceControl: Info Source control is disabled
+[2017.01.03-17.30.16:372][  0]Cmd: MAP LOAD FILE="../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Levels/GameLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.03-17.30.16:373][  0]LightingResults: New page: Lighting Build
+[2017.01.03-17.30.16:414][  0]MapCheck: New page: Map Check
+[2017.01.03-17.30.16:414][  0]LightingResults: New page: Lighting Build
+[2017.01.03-17.30.16:652][  0]LogAIModule: Creating AISystem for world GameLevel
+[2017.01.03-17.30.16:724][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.03-17.30.16:739][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.03-17.30.16:776][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 36.66ms to complete.
+[2017.01.03-17.30.16:776][  0]LogFileHelpers: Loading map 'GameLevel' took 0.404
+[2017.01.03-17.30.17:430][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.01.03-17.30.17:466][  0]LogCollectionManager: Loaded 0 collections in 0.002104 seconds
+[2017.01.03-17.30.17:587][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Collections/' took 0.01s
+[2017.01.03-17.30.17:587][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Developers/User/Collections/' took 0.01s
+[2017.01.03-17.30.17:587][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Collections/' took 0.01s
+[2017.01.03-17.30.17:587][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.01.03-17.30.17:600][  0]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 2191 classes and 430 folders.
+[2017.01.03-17.30.17:677][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.01.03-17.30.17:678][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.01.03-17.30.17:679][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0006 seconds. Added 13 classes and 0 folders.
+[2017.01.03-17.30.17:746][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.01.03-17.30.19:175][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.01.03-17.30.19:219][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.01.03-17.30.19:312][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.01.03-17.30.19:312][  0]LogLoad: (Engine Initialization) Total time: 43.75 seconds
+[2017.01.03-17.30.19:312][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.09 seconds
+[2017.01.03-17.30.19:312][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.01.03-17.30.19:312][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.01.03-17.30.19:651][  0]LogOcInput: OculusInput pre-init called
+[2017.01.03-17.30.19:694][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.01.03-17.30.23:559][  0]LogRenderer: Reallocating scene render targets to support 1208x924 NumSamples 1 (Frame:2).
+[2017.01.03-17.30.24:270][  1]LogAssetRegistry: Asset discovery search completed in 28.9114 seconds
+[2017.01.03-17.30.24:270][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.01.03-17.30.24:270][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000019 seconds (updated 0 objects)
+[2017.01.03-17.47.35:707][616]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2017.01.03-17.47.55:094][847]LogEditorViewport: Clicking Background
+[2017.01.03-17.47.55:643][909]Cmd: TRANSACTION UNDO
+[2017.01.03-17.47.55:643][909]LogEditorTransaction: Undo Clicking Background
+[2017.01.03-17.48.07:956][ 34]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.01.03-17.48.09:968][182]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.01.03-17.48.11:463][313]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.01.03-17.48.13:995][539]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.01.03-17.48.24:620][722]LogEditorViewport: Clicking Background
+[2017.01.03-17.48.26:931][988]LogEditorViewport: Clicking Background
+[2017.01.03-17.48.29:281][189]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2017.01.03-17.48.34:837][797]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.03-17.48.34:848][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.03-17.48.34:849][797]PIE: New page: PIE session: GameLevel (3 Jan 2017 17:48:34)
+[2017.01.03-17.48.34:849][797]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GameLevel
+[2017.01.03-17.48.34:850][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000918s)
+[2017.01.03-17.48.34:850][797]LogAIModule: Creating AISystem for world GameLevel
+[2017.01.03-17.48.34:851][797]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2017.01.03-17.48.34:851][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GameLevel.GameLevel to /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel (0.002262s)
+[2017.01.03-17.48.34:863][797]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.03-17.48.34:869][797]LogInit: FAudioDevice initialized.
+[2017.01.03-17.48.35:095][797]LogLoad: Game class is 'BP_GameMode_C'
+[2017.01.03-17.48.35:097][797]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.01.03-17.48.35
+[2017.01.03-17.48.35:097][797]LogWorld: Bringing up level for play took: 0.000989
+[2017.01.03-17.48.35:139][797]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2017.01.03-17.48.35:140][797]PIE: Info Play in editor start time for /Game/Assets/Levels/UEDPIE_0_GameLevel -0.458
+[2017.01.03-17.48.38:704][ 45]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2017.01.03-17.48.47:454][730]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.03-17.48.47:465][730]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.03-17.48.47:465][730]PIE: New page: PIE session: GameLevel (3 Jan 2017 17:48:47)
+[2017.01.03-17.48.47:465][730]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GameLevel
+[2017.01.03-17.48.47:466][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000889s)
+[2017.01.03-17.48.47:466][730]LogAIModule: Creating AISystem for world GameLevel
+[2017.01.03-17.48.47:466][730]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2017.01.03-17.48.47:467][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GameLevel.GameLevel to /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel (0.001736s)
+[2017.01.03-17.48.47:477][730]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.03-17.48.47:482][730]LogInit: FAudioDevice initialized.
+[2017.01.03-17.48.47:511][730]LogLoad: Game class is 'BP_GameMode_C'
+[2017.01.03-17.48.47:513][730]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.01.03-17.48.47
+[2017.01.03-17.48.47:514][730]LogWorld: Bringing up level for play took: 0.001099
+[2017.01.03-17.48.47:515][730]PIE: Info Play in editor start time for /Game/Assets/Levels/UEDPIE_0_GameLevel -0.083
+[2017.01.03-17.48.54:763][ 21]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2017.01.03-17.49.05:843][734]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.03-17.49.05:881][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.03-17.49.05:881][734]PIE: New page: PIE session: GameLevel (3 Jan 2017 17:49:05)
+[2017.01.03-17.49.05:882][734]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GameLevel
+[2017.01.03-17.49.05:885][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002719s)
+[2017.01.03-17.49.05:886][734]LogAIModule: Creating AISystem for world GameLevel
+[2017.01.03-17.49.05:887][734]LogPlayLevel: PIE: World Init took: (0.002064s)
+[2017.01.03-17.49.05:887][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GameLevel.GameLevel to /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel (0.005386s)
+[2017.01.03-17.49.05:920][734]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.03-17.49.05:942][734]LogInit: FAudioDevice initialized.
+[2017.01.03-17.49.05:996][734]LogLoad: Game class is 'BP_GameMode_C'
+[2017.01.03-17.49.06:002][734]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.01.03-17.49.06
+[2017.01.03-17.49.06:002][734]LogWorld: Bringing up level for play took: 0.003016
+[2017.01.03-17.49.06:006][734]PIE: Info Play in editor start time for /Game/Assets/Levels/UEDPIE_0_GameLevel 0.409
+[2017.01.03-17.49.20:232][361]LogSavePackage: Save=40.99ms
+[2017.01.03-17.49.20:232][361]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/GameLevel167341C74CA3F9FABF5E7CA55ED35E18.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Levels/GameLevel.umap'
+[2017.01.03-17.49.20:243][361]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Levels/GameLevel.umap
+[2017.01.03-17.52.12:719][ 80]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.01.03-17.52.15:931][214]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.03-17.52.15:967][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.03-17.52.15:968][214]PIE: New page: PIE session: GameLevel (3 Jan 2017 17:52:15)
+[2017.01.03-17.52.15:968][214]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GameLevel
+[2017.01.03-17.52.15:972][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003401s)
+[2017.01.03-17.52.15:974][214]LogAIModule: Creating AISystem for world GameLevel
+[2017.01.03-17.52.15:974][214]LogPlayLevel: PIE: World Init took: (0.002340s)
+[2017.01.03-17.52.15:975][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GameLevel.GameLevel to /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel (0.006341s)
+[2017.01.03-17.52.16:017][214]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.03-17.52.16:039][214]LogInit: FAudioDevice initialized.
+[2017.01.03-17.52.16:078][214]LogLoad: Game class is 'BP_GameMode_C'
+[2017.01.03-17.52.16:085][214]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.01.03-17.52.16
+[2017.01.03-17.52.16:085][214]LogWorld: Bringing up level for play took: 0.003341
+[2017.01.03-17.52.16:089][214]PIE: Info Play in editor start time for /Game/Assets/Levels/UEDPIE_0_GameLevel 0.492
+[2017.01.03-17.52.21:417][467]LogEditorViewport: Clicking Background
+[2017.01.03-17.52.24:967][653]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.03-17.52.25:013][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.03-17.52.25:014][653]PIE: New page: PIE session: GameLevel (3 Jan 2017 17:52:25)
+[2017.01.03-17.52.25:014][653]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GameLevel
+[2017.01.03-17.52.25:017][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002749s)
+[2017.01.03-17.52.25:018][653]LogAIModule: Creating AISystem for world GameLevel
+[2017.01.03-17.52.25:018][653]LogPlayLevel: PIE: World Init took: (0.001667s)
+[2017.01.03-17.52.25:019][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GameLevel.GameLevel to /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel (0.005026s)
+[2017.01.03-17.52.25:063][653]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.03-17.52.25:083][653]LogInit: FAudioDevice initialized.
+[2017.01.03-17.52.25:130][653]LogLoad: Game class is 'BP_GameMode_C'
+[2017.01.03-17.52.25:135][653]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.01.03-17.52.25
+[2017.01.03-17.52.25:136][653]LogWorld: Bringing up level for play took: 0.002486
+[2017.01.03-17.52.25:139][653]PIE: Info Play in editor start time for /Game/Assets/Levels/UEDPIE_0_GameLevel -0.459
+[2017.01.03-17.52.36:552][235]LogEditorViewport: Clicking Background
+[2017.01.03-17.52.38:514][345]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2017.01.03-17.52.43:611][568]LogEditorViewport: Clicking Background
+[2017.01.03-17.52.44:334][612]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2017.01.03-17.52.46:402][703]LogEditorViewport: Clicking Background
+[2017.01.03-17.52.53:945][ 51]LogEditorViewport: Clicking Background
+[2017.01.03-17.52.57:222][184]LogSavePackage: Save=70.27ms
+[2017.01.03-17.52.57:222][184]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/GameLevel90CA72274E31BAB83C8CEC9A334C1D67.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Levels/GameLevel.umap'
+[2017.01.03-17.52.57:232][184]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Levels/GameLevel.umap
+[2017.01.03-17.53.00:319][323]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2017.01.03-17.53.02:644][419]LogEditorViewport: Clicking Background
+[2017.01.03-17.54.22:330][ 27]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/User/Downloads/Mouse Interaction Texture Content/Mouse Interaction Texture Content/T_ClassicMode_Text.TGA)
+[2017.01.03-17.54.22:455][ 27]LogTexture:Display: Building textures: T_ClassicMode_Text (AutoDXT)
+[2017.01.03-17.54.22:711][ 27]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/User/Downloads/Mouse Interaction Texture Content/Mouse Interaction Texture Content/T_Dynamic_Circle.TGA)
+[2017.01.03-17.54.22:719][ 27]LogTexture:Display: Building textures: T_Dynamic_Circle (AutoDXT)
+[2017.01.03-17.54.22:845][ 27]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/User/Downloads/Mouse Interaction Texture Content/Mouse Interaction Texture Content/T_TimeTrial_Text.TGA)
+[2017.01.03-17.54.22:847][ 27]LogTexture:Display: Building textures: T_TimeTrial_Text (AutoDXT)
+[2017.01.03-17.54.22:932][ 27]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/User/Downloads/Mouse Interaction Texture Content/Mouse Interaction Texture Content/T_Waves_Text.TGA)
+[2017.01.03-17.54.22:934][ 27]LogTexture:Display: Building textures: T_Waves_Text (AutoDXT)
+[2017.01.03-17.54.37:634][699]LogSavePackage: Save=15.12ms
+[2017.01.03-17.54.37:634][699]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/T_ClassicMode_TextDCDE0B5E4FD435ED4048DD93FE026283.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Texture/T_ClassicMode_Text.uasset'
+[2017.01.03-17.54.37:636][699]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Texture/T_ClassicMode_Text.uasset
+[2017.01.03-17.54.37:654][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Texture/T_Dynamic_Circle" FILE="../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Texture/T_Dynamic_Circle.uasset" SILENT=true
+[2017.01.03-17.54.37:734][699]LogSavePackage: Save=26.49ms
+[2017.01.03-17.54.37:734][699]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/T_Dynamic_CircleC99C45D94DF391F1AEABCCADA84B7938.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Texture/T_Dynamic_Circle.uasset'
+[2017.01.03-17.54.37:736][699]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Texture/T_Dynamic_Circle.uasset
+[2017.01.03-17.54.37:793][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Texture/T_TimeTrial_Text" FILE="../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Texture/T_TimeTrial_Text.uasset" SILENT=true
+[2017.01.03-17.54.37:856][699]LogSavePackage: Save=14.84ms
+[2017.01.03-17.54.37:856][699]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/T_TimeTrial_TextBF404AA54987834B758A069DC922732C.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Texture/T_TimeTrial_Text.uasset'
+[2017.01.03-17.54.37:858][699]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Texture/T_TimeTrial_Text.uasset
+[2017.01.03-17.54.37:918][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Texture/T_Waves_Text" FILE="../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Texture/T_Waves_Text.uasset" SILENT=true
+[2017.01.03-17.54.38:056][699]LogSavePackage: Save=48.50ms
+[2017.01.03-17.54.38:056][699]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/T_Waves_TextDCA2D5014D452464F1BF33963634B418.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Texture/T_Waves_Text.uasset'
+[2017.01.03-17.54.38:058][699]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Texture/T_Waves_Text.uasset
+[2017.01.03-17.56.06:271][ 73]LogMaterial: Missing cached shader map for material MT_IlluminatedCircle, compiling. 
+[2017.01.03-17.56.06:550][ 73]LogMaterial: Missing cached shader map for material MT_IlluminatedCircle, compiling. 
+[2017.01.03-17.56.06:563][ 73]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-17.56.11:553][327]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.01.03-17.56.11:553][327]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.01.03-17.56.11:553][327]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.01.03-17.57.06:578][131]LogMaterial: Missing cached shader map for material MT_IlluminatedCircle, compiling. 
+[2017.01.03-17.57.06:643][131]LogMaterial: Missing cached shader map for material MT_IlluminatedCircle, compiling. 
+[2017.01.03-17.57.06:685][131]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-17.57.08:544][218]LogMaterial: Missing cached shader map for material MT_IlluminatedCircle, compiling. 
+[2017.01.03-17.57.08:710][218]LogMaterial: Missing cached shader map for material MT_IlluminatedCircle, compiling. 
+[2017.01.03-17.57.08:803][218]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-17.57.15:137][504]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2017.01.03-17.57.15:137][504]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 63 instructions
+[2017.01.03-17.57.15:138][504]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2017.01.03-17.57.15:138][504]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.03-17.57.40:424][999]LogMaterial: Missing cached shader map for material MT_IlluminatedCircle, compiling. 
+[2017.01.03-17.57.40:495][999]LogMaterial: Missing cached shader map for material MT_IlluminatedCircle, compiling. 
+[2017.01.03-17.57.40:555][999]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-17.57.47:733][352]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2017.01.03-17.57.47:733][352]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 63 instructions
+[2017.01.03-17.57.47:733][352]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2017.01.03-17.57.47:733][352]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.03-17.57.52:022][642]LogMaterial: Missing cached shader map for material MT_IlluminatedCircle, compiling. 
+[2017.01.03-17.57.52:088][642]LogMaterial: Missing cached shader map for material MT_IlluminatedCircle, compiling. 
+[2017.01.03-17.57.52:143][642]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-17.57.57:409][895]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2017.01.03-17.57.57:409][895]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 63 instructions
+[2017.01.03-17.57.57:409][895]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2017.01.03-17.57.57:409][895]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.03-17.58.19:296][406]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2017.01.03-17.58.24:041][614]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.01.03-17.58.28:422][849]LogEditorViewport: Clicking Background
+[2017.01.03-17.58.29:243][901]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2017.01.03-17.58.32:376][ 49]LogEditorViewport: Clicking Background
+[2017.01.03-18.02.57:753][779]LogSavePackage: Save=10.84ms
+[2017.01.03-18.02.57:753][779]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/GameLevel_Auto1C5B512DB4335ACEBBF9198A1DE97358D.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Levels/GameLevel_Auto1.umap'
+[2017.01.03-18.02.57:754][779]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Levels/GameLevel_Auto1.umap
+[2017.01.03-18.02.57:756][779]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Levels/GameLevel' took 0.028
+[2017.01.03-18.02.57:756][779]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.028
+[2017.01.03-18.02.57:761][779]LogSavePackage: Save=1.26ms
+[2017.01.03-18.02.57:761][779]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/T_ClassicMode_Text_Auto15A58553D442B78354E76A58A30C6F1ED.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/T_ClassicMode_Text_Auto1.uasset'
+[2017.01.03-18.02.57:762][779]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/T_ClassicMode_Text_Auto1.uasset
+[2017.01.03-18.02.57:766][779]LogSavePackage: Save=1.64ms
+[2017.01.03-18.02.57:766][779]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/T_Dynamic_Circle_Auto18212B6A24E6566C5283BC8A3C6168864.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/T_Dynamic_Circle_Auto1.uasset'
+[2017.01.03-18.02.57:767][779]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/T_Dynamic_Circle_Auto1.uasset
+[2017.01.03-18.02.57:770][779]LogSavePackage: Save=1.23ms
+[2017.01.03-18.02.57:770][779]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/T_TimeTrial_Text_Auto18093527D4E44FA398FB2B78774ACC73C.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/T_TimeTrial_Text_Auto1.uasset'
+[2017.01.03-18.02.57:771][779]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/T_TimeTrial_Text_Auto1.uasset
+[2017.01.03-18.02.57:774][779]LogSavePackage: Save=1.15ms
+[2017.01.03-18.02.57:774][779]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/T_Waves_Text_Auto14E9FC41E400C1C75E1677DA59A1200E7.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/T_Waves_Text_Auto1.uasset'
+[2017.01.03-18.02.57:774][779]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/T_Waves_Text_Auto1.uasset
+[2017.01.03-18.02.57:775][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Materials/MT_IlluminatedCircle] ([1] browsable assets)...
+[2017.01.03-18.02.57:809][779]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Materials/MT_IlluminatedCircle.MT_IlluminatedCircle]
+[2017.01.03-18.02.57:809][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materials/MT_IlluminatedCircle]
+[2017.01.03-18.02.57:823][779]LogSavePackage: Save=12.02ms
+[2017.01.03-18.02.57:823][779]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/MT_IlluminatedCircle_Auto12BD0403642CD5A2DE37AEEAAE8BE8487.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Materials/MT_IlluminatedCircle_Auto1.uasset'
+[2017.01.03-18.02.57:823][779]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Materials/MT_IlluminatedCircle_Auto1.uasset
+[2017.01.03-18.02.57:823][779]LogFileHelpers: Auto-saving content packages took 0.066
+[2017.01.03-18.06.42:493][219]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.06.42:615][219]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.06.42:630][219]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.06.45:763][326]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.01.03-18.06.45:763][326]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.01.03-18.06.45:763][326]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.01.03-18.07.18:366][389]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.07.18:436][389]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.07.18:490][389]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.07.25:127][632]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2017.01.03-18.07.25:128][632]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 63 instructions
+[2017.01.03-18.07.25:128][632]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2017.01.03-18.07.25:128][632]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.03-18.07.50:574][396]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.07.50:629][396]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.07.50:634][396]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.01.03-18.07.57:490][577]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2017.01.03-18.07.57:490][577]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 63 instructions
+[2017.01.03-18.07.57:490][577]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2017.01.03-18.07.57:490][577]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.03-18.08.05:297][798]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.01.03-18.08.08:834][886]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.08.08:894][886]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.08.08:927][886]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.01.03-18.08.11:430][945]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.08.11:509][945]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.08.11:544][945]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.01.03-18.08.17:276][104]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2017.01.03-18.08.17:276][104]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 63 instructions
+[2017.01.03-18.08.17:276][104]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2017.01.03-18.08.17:276][104]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.03-18.08.21:950][396]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.08.22:004][396]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.08.22:035][396]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.01.03-18.08.27:045][600]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2017.01.03-18.08.27:046][600]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 63 instructions
+[2017.01.03-18.08.27:046][600]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2017.01.03-18.08.27:046][600]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.03-18.08.35:835][822]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.08.35:894][822]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.08.42:723][ 18]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.08.42:777][ 18]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.08.47:895][192]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2017.01.03-18.08.47:895][192]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 63 instructions
+[2017.01.03-18.08.47:895][192]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2017.01.03-18.08.47:895][192]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.03-18.09.00:827][566]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.09.00:883][566]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.09.05:880][718]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2017.01.03-18.09.05:880][718]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 63 instructions
+[2017.01.03-18.09.05:880][718]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2017.01.03-18.09.05:880][718]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.03-18.09.18:754][100]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.09.18:811][100]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.09.18:822][100]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.09.18:877][100]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.09.21:701][179]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.09.21:788][179]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.09.21:820][179]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.01.03-18.09.26:906][309]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2017.01.03-18.09.26:907][309]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 63 instructions
+[2017.01.03-18.09.26:907][309]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2017.01.03-18.09.26:907][309]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.03-18.09.31:070][418]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.09.31:127][418]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.09.31:718][432]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.09.31:791][432]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.09.37:907][624]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2017.01.03-18.09.37:907][624]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 63 instructions
+[2017.01.03-18.09.37:908][624]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2017.01.03-18.09.37:908][624]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.03-18.09.47:285][906]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.09.47:338][906]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.09.52:434][ 83]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.03-18.09.52:434][ 83]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.03-18.09.52:435][ 83]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2017.01.03-18.09.52:435][ 83]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.03-18.10.00:204][340]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.10.00:260][340]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.10.05:422][508]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.03-18.10.05:423][508]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.03-18.10.05:423][508]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2017.01.03-18.10.05:423][508]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.03-18.10.07:355][569]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.10.07:412][569]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.10.12:417][670]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2017.01.03-18.10.12:417][670]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 63 instructions
+[2017.01.03-18.10.12:418][670]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2017.01.03-18.10.12:418][670]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.03-18.10.16:055][883]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.10.16:109][883]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.10.18:897][ 14]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.10.18:985][ 14]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.10.21:738][119]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.10.21:829][119]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.10.21:866][119]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.01.03-18.10.25:158][253]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.10.25:237][253]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.10.28:564][413]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.10.28:638][413]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.10.28:678][413]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.01.03-18.10.34:784][683]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2017.01.03-18.10.34:784][683]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 63 instructions
+[2017.01.03-18.10.34:785][683]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2017.01.03-18.10.34:785][683]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.03-18.10.36:463][688]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.10.36:518][688]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.10.39:700][771]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.10.39:786][771]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.10.41:868][825]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.10.41:954][825]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.10.41:990][825]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.01.03-18.10.47:744][ 52]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2017.01.03-18.10.47:744][ 52]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 63 instructions
+[2017.01.03-18.10.47:744][ 52]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2017.01.03-18.10.47:744][ 52]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.03-18.11.01:312][705]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.11.01:366][705]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.11.01:372][705]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.01.03-18.11.06:906][850]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2017.01.03-18.11.06:906][850]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 63 instructions
+[2017.01.03-18.11.06:906][850]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2017.01.03-18.11.06:906][850]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.03-18.11.48:011][228]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.11.48:068][228]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.11.51:813][338]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.11.51:894][338]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.11.51:929][338]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.01.03-18.11.54:567][422]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.11.54:658][422]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.12.00:987][660]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2017.01.03-18.12.00:987][660]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 63 instructions
+[2017.01.03-18.12.00:987][660]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2017.01.03-18.12.00:987][660]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.03-18.12.34:254][990]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.12.34:270][990]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.12.34:297][990]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.01.03-18.12.36:875][145]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.03-18.12.36:876][145]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.03-18.12.36:876][145]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.12.36:876][145]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.12.54:962][696]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.12.55:022][696]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.13.00:054][841]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.03-18.13.00:054][841]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.03-18.13.00:054][841]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.13.00:054][841]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.13.02:336][904]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.13.02:396][904]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.13.02:431][904]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.01.03-18.13.06:627][966]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.13.06:716][966]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.13.28:466][488]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.13.28:522][488]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.13.33:792][657]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 28 instructions
+[2017.01.03-18.13.33:792][657]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 65 instructions
+[2017.01.03-18.13.33:792][657]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.13.33:792][657]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.13.37:307][765]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.13.37:361][765]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.13.42:548][939]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.13.42:549][939]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.13.42:549][939]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.13.42:549][939]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.13.50:289][163]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.13.50:344][163]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.13.55:742][341]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.13.55:742][341]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.13.55:742][341]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.13.55:742][341]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.13.56:807][379]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.13.56:865][379]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.14.01:878][547]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.14.01:878][547]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.14.01:878][547]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.14.01:879][547]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.18.24:310][438]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.18.24:325][438]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.18.26:294][572]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.18.26:294][572]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.18.26:294][572]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.18.26:294][572]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.18.28:115][720]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.18.28:129][720]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.18.29:746][828]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.18.29:746][828]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.18.29:746][828]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.18.29:746][828]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.18.33:840][231]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.18.33:855][231]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.18.35:433][334]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.18.35:433][334]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.18.35:434][334]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.18.35:434][334]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.18.38:024][524]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.18.38:038][524]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.18.40:165][660]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.18.40:165][660]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.18.40:165][660]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.18.40:165][660]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.19.45:883][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/MT_RedCircle" FILE="../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_RedCircle.uasset" SILENT=true
+[2017.01.03-18.19.45:934][367]LogSavePackage: Save=46.00ms
+[2017.01.03-18.19.45:934][367]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/MT_RedCircle7A189CB54AF6B74DBBE1D6AA40BE946D.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_RedCircle.uasset'
+[2017.01.03-18.19.45:942][367]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_RedCircle.uasset
+[2017.01.03-18.19.55:644][119]LogMaterial: Missing cached shader map for material MT_BlueCircle, compiling. 
+[2017.01.03-18.19.57:207][180]LogMaterial: Missing cached shader map for material MT_BlueCircle, compiling. 
+[2017.01.03-18.19.57:721][180]LogMaterial: Missing cached shader map for material MT_BlueCircle, compiling. 
+[2017.01.03-18.19.57:789][180]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.20.03:276][326]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.01.03-18.20.03:276][326]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.01.03-18.20.03:276][326]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.01.03-18.20.09:365][534]LogUObjectHash:Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_1.MaterialGraphNode_1 or MaterialGraphNode /Engine/Transient.MT_BlueCircle:MaterialGraph_2.MaterialGraphNode_1
+[2017.01.03-18.20.09:365][534]LogProperty:Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_1.MaterialExpressionScalarParameter_1')'
+[2017.01.03-18.20.09:365][534]LogUObjectHash:Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_1.MaterialGraphNode_0 or MaterialGraphNode /Engine/Transient.MT_BlueCircle:MaterialGraph_2.MaterialGraphNode_0
+[2017.01.03-18.20.09:366][534]LogProperty:Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'MaterialGraphNode_0.MaterialExpressionVectorParameter_1',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2017.01.03-18.20.09:370][534]LogUObjectHash:Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_1.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.MT_BlueCircle:MaterialGraph_2.MaterialGraphNode_3
+[2017.01.03-18.20.09:371][534]LogProperty:Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'MaterialGraphNode_3.MaterialExpressionMultiply_4')'
+[2017.01.03-18.20.09:371][534]LogUObjectHash:Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_1.MaterialGraphNode_4 or MaterialGraphNode /Engine/Transient.MT_BlueCircle:MaterialGraph_2.MaterialGraphNode_4
+[2017.01.03-18.20.09:371][534]LogProperty:Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'MaterialGraphNode_4.MaterialExpressionTextureSample_1',OutputIndex=4,Mask=1,MaskA=1)'
+[2017.01.03-18.20.09:397][534]LogMaterial: Missing cached shader map for material MT_BlueCircle, compiling. 
+[2017.01.03-18.20.09:441][534]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.20.09:447][534]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.01.03-18.20.09:471][534]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.01.03-18.20.09:871][542]LogUObjectHash:Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_1.MaterialGraphNode_1 or MaterialGraphNode /Engine/Transient.MT_BlueCircle:MaterialGraph_2.MaterialGraphNode_1
+[2017.01.03-18.20.09:871][542]LogProperty:Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_1.MaterialExpressionScalarParameter_1')'
+[2017.01.03-18.20.09:872][542]LogUObjectHash:Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_1.MaterialGraphNode_0 or MaterialGraphNode /Engine/Transient.MT_BlueCircle:MaterialGraph_2.MaterialGraphNode_0
+[2017.01.03-18.20.09:872][542]LogProperty:Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'MaterialGraphNode_0.MaterialExpressionVectorParameter_1',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2017.01.03-18.20.09:879][542]LogUObjectHash:Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_1.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.MT_BlueCircle:MaterialGraph_2.MaterialGraphNode_3
+[2017.01.03-18.20.09:880][542]LogProperty:Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'MaterialGraphNode_3.MaterialExpressionMultiply_4')'
+[2017.01.03-18.20.09:880][542]LogUObjectHash:Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_1.MaterialGraphNode_4 or MaterialGraphNode /Engine/Transient.MT_BlueCircle:MaterialGraph_2.MaterialGraphNode_4
+[2017.01.03-18.20.09:881][542]LogProperty:Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'MaterialGraphNode_4.MaterialExpressionTextureSample_1',OutputIndex=4,Mask=1,MaskA=1)'
+[2017.01.03-18.20.09:918][542]LogMaterial: Missing cached shader map for material MT_BlueCircle, compiling. 
+[2017.01.03-18.20.09:981][542]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.20.10:048][542]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.01.03-18.20.10:073][542]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.01.03-18.20.10:095][542]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.01.03-18.20.10:117][542]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2017.01.03-18.20.12:805][611]LogMaterial: Missing cached shader map for material MT_BlueCircle, compiling. 
+[2017.01.03-18.20.12:875][611]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.20.12:940][611]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.01.03-18.20.12:962][611]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2017.01.03-18.20.16:263][683]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 24 instructions
+[2017.01.03-18.20.16:264][683]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.03-18.20.16:264][683]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.01.03-18.20.21:548][838]LogMaterial: Missing cached shader map for material MT_BlueCircle, compiling. 
+[2017.01.03-18.20.21:627][838]LogMaterial: Missing cached shader map for material MT_BlueCircle, compiling. 
+[2017.01.03-18.20.21:686][838]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.20.26:915][969]LogMaterial: Missing cached shader map for material MT_BlueCircle, compiling. 
+[2017.01.03-18.20.26:987][969]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.20.29:993][ 53]LogMaterial: Missing cached shader map for material MT_BlueCircle, compiling. 
+[2017.01.03-18.20.30:082][ 53]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.20.30:119][ 53]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.01.03-18.20.36:011][246]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.20.36:011][246]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.20.36:011][246]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.20.36:011][246]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.20.41:957][408]LogMaterial: Missing cached shader map for material MT_BlueCircle, compiling. 
+[2017.01.03-18.20.42:015][408]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.20.42:048][408]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2017.01.03-18.20.43:653][448]LogMaterial: Missing cached shader map for material MT_BlueCircle, compiling. 
+[2017.01.03-18.20.43:745][448]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.20.43:779][448]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2017.01.03-18.20.50:145][663]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.20.50:145][663]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.20.50:145][663]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.20.50:145][663]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.20.56:523][850]LogMaterial: Missing cached shader map for material MT_BlueCircle, compiling. 
+[2017.01.03-18.20.56:578][850]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.20.56:611][850]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2017.01.03-18.21.01:919][995]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.21.01:919][995]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.21.01:919][995]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.21.01:919][995]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.21.07:335][148]LogMaterialEditor: Saving and Compiling material MT_BlueCircle
+[2017.01.03-18.21.09:382][148]LogMaterial: Missing cached shader map for material MT_BlueCircle, compiling. 
+[2017.01.03-18.21.09:504][148]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.21.09:767][148]LogMaterial: Missing cached shader map for material MT_BlueCircle, compiling. 
+[2017.01.03-18.21.09:914][148]LogMaterial: Missing cached shader map for material MT_BlueCircle, compiling. 
+[2017.01.03-18.21.10:029][148]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.21.18:166][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/MT_BlueCircle" FILE="../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_BlueCircle.uasset" SILENT=true
+[2017.01.03-18.21.18:180][148]LogSavePackage: Save=12.64ms
+[2017.01.03-18.21.18:180][148]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/MT_BlueCircleC075D3934BEEEE9DD8AF02B675D67338.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_BlueCircle.uasset'
+[2017.01.03-18.21.18:182][148]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_BlueCircle.uasset
+[2017.01.03-18.21.18:186][148]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 53 instructions
+[2017.01.03-18.21.18:186][148]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 89 instructions
+[2017.01.03-18.21.18:186][148]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.21.18:186][148]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.21.21:260][348]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Levels/GameLevel' took 0.010
+[2017.01.03-18.21.21:264][348]LogSavePackage: Save=1.42ms
+[2017.01.03-18.21.21:264][348]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/MT_IlluminatedCircle_Auto24A627D8948E58F2F95F3AEB0FDB310D9.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Materials/MT_IlluminatedCircle_Auto2.uasset'
+[2017.01.03-18.21.21:265][348]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Materials/MT_IlluminatedCircle_Auto2.uasset
+[2017.01.03-18.21.21:265][348]LogFileHelpers: Auto-saving content packages took 0.005
+[2017.01.03-18.21.26:414][584]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.03-18.21.26:445][584]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.21.26:545][584]LogMaterial: Missing cached shader map for material MT_RedCircle, compiling. 
+[2017.01.03-18.21.26:577][584]LogMaterial: Missing cached shader map for material MT_RedCircle, compiling. 
+[2017.01.03-18.21.26:611][584]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.21.31:220][837]LogMaterial: Missing cached shader map for material MT_RedCircle, compiling. 
+[2017.01.03-18.21.31:376][837]LogMaterial: Missing cached shader map for material MT_RedCircle, compiling. 
+[2017.01.03-18.21.31:414][837]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.21.31:441][837]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.01.03-18.21.31:451][837]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.21.34:260][  8]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.21.34:260][  8]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.21.34:261][  8]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.21.34:261][  8]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.21.36:923][196]LogMaterialEditor: Saving and Compiling material MT_RedCircle
+[2017.01.03-18.21.36:998][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/MT_RedCircle" FILE="../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_RedCircle.uasset" SILENT=true
+[2017.01.03-18.21.37:019][196]LogSavePackage: Save=16.47ms
+[2017.01.03-18.21.37:019][196]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/MT_RedCircleDD93819145D49369CF3118B40217513E.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_RedCircle.uasset'
+[2017.01.03-18.21.37:023][196]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_RedCircle.uasset
+[2017.01.03-18.23.27:146][795]LogSavePackage: Save=11.68ms
+[2017.01.03-18.23.27:146][795]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/GameLevelE9E20AC54EB6D99280D30F9059BF962F.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Levels/GameLevel.umap'
+[2017.01.03-18.23.27:148][795]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Levels/GameLevel.umap
+[2017.01.03-18.23.27:167][795]LogFileHelpers: Saving map 'GameLevel' took 0.094
+[2017.01.03-18.23.27:212][795]LogSavePackage: Save=1.18ms
+[2017.01.03-18.23.27:212][795]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/MT_IlluminatedCircle6EE2FAC743579C1DD05EBFB738190EED.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_IlluminatedCircle.uasset'
+[2017.01.03-18.23.27:214][795]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_IlluminatedCircle.uasset
+[2017.01.03-18.23.27:258][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/StaticMeshes/Shape_Plane" FILE="../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/StaticMeshes/Shape_Plane.uasset" SILENT=true
+[2017.01.03-18.23.27:268][795]LogSavePackage: Save=9.63ms
+[2017.01.03-18.23.27:269][795]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Shape_Plane6864E9AD4DF9B6C8922CB5828E343E59.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/StaticMeshes/Shape_Plane.uasset'
+[2017.01.03-18.23.27:271][795]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/StaticMeshes/Shape_Plane.uasset
+[2017.01.03-18.23.27:275][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/T_ClassicMode_Text" FILE="../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/T_ClassicMode_Text.uasset" SILENT=true
+[2017.01.03-18.23.27:277][795]LogSavePackage: Save=1.11ms
+[2017.01.03-18.23.27:277][795]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/T_ClassicMode_TextFAA39EC64DE470DDE614D8A3026F5886.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/T_ClassicMode_Text.uasset'
+[2017.01.03-18.23.27:279][795]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/T_ClassicMode_Text.uasset
+[2017.01.03-18.23.27:282][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/T_Dynamic_Circle" FILE="../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/T_Dynamic_Circle.uasset" SILENT=true
+[2017.01.03-18.23.27:285][795]LogSavePackage: Save=1.49ms
+[2017.01.03-18.23.27:285][795]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/T_Dynamic_Circle467B4A52429CB720BB0B30A20A063FFD.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/T_Dynamic_Circle.uasset'
+[2017.01.03-18.23.27:287][795]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/T_Dynamic_Circle.uasset
+[2017.01.03-18.23.27:290][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/T_TimeTrial_Text" FILE="../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/T_TimeTrial_Text.uasset" SILENT=true
+[2017.01.03-18.23.27:293][795]LogSavePackage: Save=1.20ms
+[2017.01.03-18.23.27:293][795]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/T_TimeTrial_TextEE8C78764AE7669930CA01B5FCD7505C.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/T_TimeTrial_Text.uasset'
+[2017.01.03-18.23.27:294][795]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/T_TimeTrial_Text.uasset
+[2017.01.03-18.23.27:299][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/T_Waves_Text" FILE="../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/T_Waves_Text.uasset" SILENT=true
+[2017.01.03-18.23.27:303][795]LogSavePackage: Save=2.52ms
+[2017.01.03-18.23.27:303][795]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/T_Waves_Text41E5E29C4E527EBB489CB7921CE57B51.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/T_Waves_Text.uasset'
+[2017.01.03-18.23.27:305][795]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/T_Waves_Text.uasset
+[2017.01.03-18.23.42:332][953]LogSavePackage: Save=12.57ms
+[2017.01.03-18.23.42:332][953]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/SM_RedCircleA30B8BC647D9DE9E2A9AD9A7FEEAC062.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/StaticMeshes/SM_RedCircle.uasset'
+[2017.01.03-18.23.42:334][953]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/StaticMeshes/SM_RedCircle.uasset
+[2017.01.03-18.23.56:129][941]LogSavePackage: Save=10.11ms
+[2017.01.03-18.23.56:129][941]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/SM_BlueCircleB02EF2244BF23F745060C2AD5E26EE4C.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/StaticMeshes/SM_BlueCircle.uasset'
+[2017.01.03-18.23.56:131][941]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/StaticMeshes/SM_BlueCircle.uasset
+[2017.01.03-18.24.16:087][727]LogRenderer: Reallocating scene render targets to support 1432x924 NumSamples 1 (Frame:39264).
+[2017.01.03-18.25.09:647][952]LogSavePackage: Save=15.21ms
+[2017.01.03-18.25.09:647][952]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/SM_BlueCircle57DC24614789CF790A0A1D92E042A148.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/StaticMeshes/SM_BlueCircle.uasset'
+[2017.01.03-18.25.09:651][952]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/StaticMeshes/SM_BlueCircle.uasset
+[2017.01.03-18.25.09:713][952]LogSavePackage: Save=14.46ms
+[2017.01.03-18.25.09:713][952]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/SM_RedCircle0BF2E3B74C4EB6C5AF645294A918561C.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/StaticMeshes/SM_RedCircle.uasset'
+[2017.01.03-18.25.09:716][952]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/StaticMeshes/SM_RedCircle.uasset
+[2017.01.03-18.28.18:283][574]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/User/Downloads/bd13b936c66f95ca25397746f24c8afc.png)
+[2017.01.03-18.28.18:290][574]LogTexture:Display: Building textures: bd13b936c66f95ca25397746f24c8afc (BGRA8)
+[2017.01.03-18.30.39:343][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Texture/T_Board" FILE="../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Texture/T_Board.uasset" SILENT=true
+[2017.01.03-18.30.39:348][190]LogSavePackage: Save=3.06ms
+[2017.01.03-18.30.39:348][190]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/T_BoardA80D0DE3412A73A1D01FABA0CA0374D7.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Texture/T_Board.uasset'
+[2017.01.03-18.30.39:350][190]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Texture/T_Board.uasset
+[2017.01.03-18.32.01:070][383]LogMaterial: Missing cached shader map for material MT_Board, compiling. 
+[2017.01.03-18.32.01:122][383]LogMaterial: Missing cached shader map for material MT_Board, compiling. 
+[2017.01.03-18.32.01:133][383]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.32.03:724][464]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.01.03-18.32.03:725][464]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.01.03-18.32.03:725][464]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.01.03-18.32.17:048][987]LogMaterial: Missing cached shader map for material MT_Board, compiling. 
+[2017.01.03-18.32.17:088][987]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.32.17:093][987]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.01.03-18.32.20:879][153]LogMaterial: Missing cached shader map for material MT_Board, compiling. 
+[2017.01.03-18.32.20:918][153]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.32.20:951][153]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.01.03-18.32.23:567][232]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2017.01.03-18.32.23:567][232]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.03-18.32.23:567][232]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.01.03-18.32.53:330][993]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.32.54:071][998]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.32.54:420][998]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.32.54:516][998]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.32.54:554][998]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.01.03-18.32.54:578][998]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.33.05:847][336]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.33.05:848][336]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.33.05:848][336]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.33.05:848][336]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.33.14:967][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/MT_Board" FILE="../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_Board.uasset" SILENT=true
+[2017.01.03-18.33.15:020][548]LogSavePackage: Save=42.09ms
+[2017.01.03-18.33.15:020][548]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/MT_Board910468574E8304C68CBDF1AB4A5C4C91.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_Board.uasset'
+[2017.01.03-18.33.15:028][548]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_Board.uasset
+[2017.01.03-18.33.22:045][686]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.33.22:097][686]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.33.23:297][708]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.33.23:377][708]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.33.23:382][708]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2017.01.03-18.33.27:528][790]LogEditorTransaction: Undo Material Editor: New Expression
+[2017.01.03-18.33.27:586][790]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.33.27:699][790]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.33.27:771][790]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.33.28:253][791]LogEditorTransaction: Undo Material Editor: Delete
+[2017.01.03-18.33.28:289][791]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.33.28:377][791]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.33.28:458][791]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.33.28:496][791]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.01.03-18.33.31:096][839]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.33.31:176][839]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.33.31:182][839]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2017.01.03-18.33.36:738][976]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.33.36:739][976]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.33.36:739][976]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.33.36:739][976]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.34.06:231][995]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.34.06:285][995]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.34.06:318][995]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.01.03-18.34.09:462][ 55]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.34.09:551][ 55]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.34.15:087][168]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.34.15:087][168]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.34.15:087][168]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.34.15:087][168]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.34.19:695][317]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.34.19:750][317]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.34.19:785][317]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.34.24:738][414]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.34.24:738][414]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.34.24:738][414]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.34.24:738][414]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.34.33:972][635]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.34.34:025][635]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.34.34:056][635]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.34.35:858][666]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.34.35:935][666]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.34.35:967][666]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.34.37:059][684]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.34.37:144][684]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.34.37:177][684]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.34.42:476][788]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.34.42:476][788]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.34.42:476][788]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.34.42:476][788]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.34.56:140][220]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.34.56:194][220]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.34.56:675][226]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.34.56:747][226]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.34.57:415][236]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.34.57:493][236]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.35.01:119][307]LogEditorTransaction: Undo Break Pin Links
+[2017.01.03-18.35.01:182][307]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.35.01:269][307]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.35.01:344][307]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.35.01:674][308]LogEditorTransaction: Undo Break Pin Links
+[2017.01.03-18.35.01:701][308]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.35.01:796][308]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.35.01:878][308]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.35.03:396][337]LogEditorTransaction: Undo Break Pin Links
+[2017.01.03-18.35.03:459][337]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.35.03:559][337]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.35.03:636][337]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.35.07:969][417]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.35.08:043][417]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.35.11:476][523]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.35.11:554][523]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.35.11:587][523]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.01.03-18.35.17:261][624]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 28 instructions
+[2017.01.03-18.35.17:261][624]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 65 instructions
+[2017.01.03-18.35.17:261][624]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.35.17:261][624]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.35.18:589][675]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.35.18:642][675]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.35.18:679][675]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.35.19:562][695]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.35.19:655][695]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.35.19:695][695]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.35.20:750][720]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.35.20:834][720]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.35.20:871][720]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.35.26:072][821]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 28 instructions
+[2017.01.03-18.35.26:073][821]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 65 instructions
+[2017.01.03-18.35.26:073][821]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.35.26:073][821]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.35.32:963][ 64]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.35.33:017][ 64]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.35.33:053][ 64]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.35.37:721][152]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 28 instructions
+[2017.01.03-18.35.37:721][152]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 65 instructions
+[2017.01.03-18.35.37:722][152]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.35.37:722][152]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.35.42:458][296]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.35.42:511][296]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.35.42:541][296]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.35.47:322][387]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 28 instructions
+[2017.01.03-18.35.47:322][387]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 65 instructions
+[2017.01.03-18.35.47:322][387]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.35.47:322][387]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.35.59:210][709]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.35.59:264][709]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.35.59:300][709]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.01.03-18.36.04:725][876]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.36.04:778][876]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.36.09:370][964]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.36.09:370][964]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.36.09:370][964]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.36.09:370][964]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.36.13:155][ 49]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.36.13:211][ 49]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.36.13:248][ 49]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.36.17:930][139]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.36.17:931][139]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.36.17:931][139]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.36.17:931][139]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.36.24:446][308]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.36.24:501][308]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.36.24:538][308]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.36.25:589][332]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.36.25:671][332]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.36.25:706][332]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.36.26:693][358]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.36.26:789][358]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.36.26:827][358]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.36.31:868][455]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.36.31:868][455]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.36.31:868][455]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.36.31:868][455]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.36.35:332][584]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.36.35:385][584]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.36.35:418][584]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.36.40:082][670]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.36.40:082][670]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.36.40:082][670]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.36.40:082][670]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.36.45:597][808]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.36.45:652][808]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.36.45:684][808]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.36.50:362][896]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.36.50:362][896]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.36.50:362][896]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.36.50:362][896]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.36.55:681][ 50]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.36.55:735][ 50]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.36.55:769][ 50]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.36.57:104][ 95]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.36.57:179][ 95]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.36.57:216][ 95]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.36.59:093][177]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.36.59:174][177]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.36.59:208][177]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.37.01:697][282]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.37.01:783][282]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.37.01:821][282]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.37.07:120][361]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.37.07:120][361]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.37.07:120][361]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.37.07:121][361]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.37.09:666][413]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.37.09:723][413]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.37.09:759][413]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.37.10:588][434]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.37.10:666][434]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.37.10:700][434]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.37.11:729][454]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.37.11:793][454]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.37.11:828][454]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.37.16:903][556]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.37.16:903][556]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.37.16:903][556]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.37.16:903][556]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.37.23:644][827]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.37.23:700][827]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.37.23:730][827]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.37.29:902][ 59]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.37.29:956][ 59]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.37.29:988][ 59]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.37.34:697][148]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.37.34:697][148]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.37.34:697][148]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.37.34:697][148]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.37.39:702][294]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.37.39:756][294]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.37.39:788][294]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.37.44:638][383]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.37.44:639][383]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.37.44:639][383]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.37.44:639][383]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.37.47:480][578]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.37.47:534][578]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.37.47:567][578]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.37.52:710][702]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.37.52:711][702]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.37.52:711][702]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.37.52:711][702]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.38.03:417][957]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.38.03:470][957]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.38.03:502][957]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.38.08:186][ 47]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.38.08:186][ 47]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.38.08:186][ 47]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.38.08:186][ 47]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.38.10:922][119]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.38.10:978][119]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.38.11:009][119]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.38.15:665][185]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.38.15:666][185]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.38.15:666][185]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.38.15:666][185]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.38.20:094][283]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.38.20:148][283]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.38.20:182][283]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.38.24:871][370]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-18.38.24:871][370]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-18.38.24:871][370]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-18.38.24:871][370]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-18.38.31:423][560]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.38.31:480][560]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.38.31:511][560]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.38.32:935][606]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.38.33:002][606]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.38.33:037][606]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.38.35:600][725]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.38.35:676][725]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.38.35:712][725]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.38.40:147][839]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.38.40:235][839]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.38.40:270][839]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.38.47:010][ 98]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.38.47:065][ 98]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.38.47:107][ 98]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.38.49:465][130]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 25 instructions
+[2017.01.03-18.38.49:465][130]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.03-18.38.49:465][130]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.01.03-18.38.54:055][213]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.38.54:097][213]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.38.54:132][213]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.38.56:498][257]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 25 instructions
+[2017.01.03-18.38.56:498][257]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.03-18.38.56:498][257]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.01.03-18.38.59:964][352]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.39.00:006][352]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.39.00:043][352]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-18.39.02:459][400]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 25 instructions
+[2017.01.03-18.39.02:460][400]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.03-18.39.02:460][400]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.01.03-18.39.08:510][532]LogMaterialEditor: Saving and Compiling material MT_Board
+[2017.01.03-18.39.10:389][532]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.39.10:475][532]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.39.10:725][532]LogMaterial: Missing cached shader map for material MT_Board, compiling. 
+[2017.01.03-18.39.10:839][532]LogMaterial: Missing cached shader map for material MT_Board, compiling. 
+[2017.01.03-18.39.10:937][532]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.39.17:279][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/MT_Board" FILE="../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_Board.uasset" SILENT=true
+[2017.01.03-18.39.17:355][532]LogSavePackage: Save=53.02ms
+[2017.01.03-18.39.17:355][532]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/MT_Board0A3E965E456D20845AA843852DF0C13C.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_Board.uasset'
+[2017.01.03-18.39.17:365][532]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_Board.uasset
+[2017.01.03-18.39.17:410][532]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 61 instructions
+[2017.01.03-18.39.17:410][532]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.03-18.39.17:410][532]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.03-18.39.18:563][555]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.39.18:604][555]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.39.21:119][614]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 25 instructions
+[2017.01.03-18.39.21:119][614]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.03-18.39.21:119][614]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.01.03-18.39.25:561][714]LogMaterialEditor: Saving and Compiling material MT_Board
+[2017.01.03-18.39.27:439][714]LogMaterial: Missing cached shader map for material MT_RedCircle2, compiling. 
+[2017.01.03-18.39.27:521][714]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.39.27:766][714]LogMaterial: Missing cached shader map for material MT_Board, compiling. 
+[2017.01.03-18.39.27:903][714]LogMaterial: Missing cached shader map for material MT_Board, compiling. 
+[2017.01.03-18.39.27:991][714]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-18.39.34:162][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/MT_Board" FILE="../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_Board.uasset" SILENT=true
+[2017.01.03-18.39.34:224][714]LogSavePackage: Save=49.19ms
+[2017.01.03-18.39.34:225][714]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/MT_BoardB132DBBF43671D7102E487BB5065712E.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_Board.uasset'
+[2017.01.03-18.39.34:235][714]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_Board.uasset
+[2017.01.03-18.39.34:298][714]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 61 instructions
+[2017.01.03-18.39.34:298][714]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.01.03-18.39.34:298][714]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.03-18.40.05:534][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/StaticMeshes/SM_Board" FILE="../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/StaticMeshes/SM_Board.uasset" SILENT=true
+[2017.01.03-18.40.05:583][339]LogSavePackage: Save=36.84ms
+[2017.01.03-18.40.05:583][339]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/SM_BoardAC307989427293C0F1469D8C45C935A5.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/StaticMeshes/SM_Board.uasset'
+[2017.01.03-18.40.05:591][339]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/StaticMeshes/SM_Board.uasset
+[2017.01.03-18.40.12:300][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/MT_RedCircle2" FILE="../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_RedCircle2.uasset" SILENT=true
+[2017.01.03-18.40.12:317][546]LogSavePackage: Save=5.68ms
+[2017.01.03-18.40.12:317][546]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/MT_RedCircle233A6A64E4227DD9CB04198A22AFF9775.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_RedCircle2.uasset'
+[2017.01.03-18.40.12:326][546]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_RedCircle2.uasset
+[2017.01.03-18.40.12:351][546]LogSavePackage: Save=5.37ms
+[2017.01.03-18.40.12:351][546]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/bd13b936c66f95ca25397746f24c8afcEFC7263249BB2E5DD1C62D9D6EA1C635.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Texture/bd13b936c66f95ca25397746f24c8afc.uasset'
+[2017.01.03-18.40.12:364][546]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Texture/bd13b936c66f95ca25397746f24c8afc.uasset
+[2017.01.03-18.43.53:309][340]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0030 seconds. Added 111 classes and 0 folders.
+[2017.01.03-18.44.01:320][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/BP_GameBoard" FILE="../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Blueprints/BP_GameBoard.uasset" SILENT=true
+[2017.01.03-18.44.01:349][566]LogSavePackage: Save=23.58ms
+[2017.01.03-18.44.01:349][566]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/BP_GameBoardC816DA1144BADA4C0D074B9F35B73DC5.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Blueprints/BP_GameBoard.uasset'
+[2017.01.03-18.44.01:358][566]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Blueprints/BP_GameBoard.uasset
+[2017.01.03-18.53.11:636][442]BlueprintLog: New page: Compile BP_GameBoard
+[2017.01.03-18.53.12:760][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/BP_GameBoard" FILE="../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Blueprints/BP_GameBoard.uasset" SILENT=true
+[2017.01.03-18.53.12:791][489]LogSavePackage: Save=22.82ms
+[2017.01.03-18.53.12:791][489]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/BP_GameBoardE17616B245365E14BC3ABFA38FC0D8D3.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Blueprints/BP_GameBoard.uasset'
+[2017.01.03-18.53.12:794][489]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Blueprints/BP_GameBoard.uasset
+[2017.01.03-18.53.16:136][803]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Shape_NarrowCapsule)
+[2017.01.03-18.53.19:406][ 72]LogActorFactory: Actor Factory created SM_Board
+[2017.01.03-18.53.30:920][887]BlueprintLog: New page: Compile BP_GameBoard
+[2017.01.03-18.53.42:267][223]LogEditorViewport: Clicking Background
+[2017.01.03-18.53.43:405][278]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Board)
+[2017.01.03-18.53.51:671][522]LogEditorViewport: Clicking Background
+[2017.01.03-18.53.52:235][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_NarrowCapsule)
+[2017.01.03-18.53.53:674][599]Cmd: DELETE
+[2017.01.03-18.53.53:674][599]Cmd: ACTOR DELETE
+[2017.01.03-18.53.53:686][599]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.01.03-18.53.53:731][599]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2017.01.03-18.53.55:146][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Board)
+[2017.01.03-18.54.04:089][  1]LogEditorViewport: Clicking Background
+[2017.01.03-18.54.05:414][ 57]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.03-18.54.05:457][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.03-18.54.05:458][ 57]PIE: New page: PIE session: GameLevel (3 Jan 2017 18:54:05)
+[2017.01.03-18.54.05:458][ 57]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GameLevel
+[2017.01.03-18.54.05:461][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002825s)
+[2017.01.03-18.54.05:463][ 57]LogAIModule: Creating AISystem for world GameLevel
+[2017.01.03-18.54.05:463][ 57]LogPlayLevel: PIE: World Init took: (0.002024s)
+[2017.01.03-18.54.05:464][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GameLevel.GameLevel to /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel (0.005445s)
+[2017.01.03-18.54.05:518][ 57]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.03-18.54.05:541][ 57]LogInit: FAudioDevice initialized.
+[2017.01.03-18.54.05:645][ 57]LogLoad: Game class is 'BP_GameMode_C'
+[2017.01.03-18.54.05:651][ 57]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.01.03-18.54.05
+[2017.01.03-18.54.05:652][ 57]LogWorld: Bringing up level for play took: 0.003185
+[2017.01.03-18.54.05:656][ 57]PIE: Info Play in editor start time for /Game/Assets/Levels/UEDPIE_0_GameLevel 0.132
+[2017.01.03-18.54.12:579][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Board)
+[2017.01.03-18.54.14:690][443]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2017.01.03-18.54.29:946][939]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.01.03-18.54.31:093][978]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.03-18.54.31:140][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.03-18.54.31:140][978]PIE: New page: PIE session: GameLevel (3 Jan 2017 18:54:31)
+[2017.01.03-18.54.31:140][978]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GameLevel
+[2017.01.03-18.54.31:143][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002694s)
+[2017.01.03-18.54.31:144][978]LogAIModule: Creating AISystem for world GameLevel
+[2017.01.03-18.54.31:145][978]LogPlayLevel: PIE: World Init took: (0.001723s)
+[2017.01.03-18.54.31:145][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GameLevel.GameLevel to /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel (0.005010s)
+[2017.01.03-18.54.31:194][978]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.03-18.54.31:214][978]LogInit: FAudioDevice initialized.
+[2017.01.03-18.54.31:324][978]LogLoad: Game class is 'BP_GameMode_C'
+[2017.01.03-18.54.31:330][978]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.01.03-18.54.31
+[2017.01.03-18.54.31:330][978]LogWorld: Bringing up level for play took: 0.002899
+[2017.01.03-18.54.31:334][978]PIE: Info Play in editor start time for /Game/Assets/Levels/UEDPIE_0_GameLevel -0.191
+[2017.01.03-18.54.41:453][330]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2017.01.03-18.54.46:704][544]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.01.03-18.54.48:126][596]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.03-18.54.48:170][596]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.03-18.54.48:171][596]PIE: New page: PIE session: GameLevel (3 Jan 2017 18:54:48)
+[2017.01.03-18.54.48:171][596]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GameLevel
+[2017.01.03-18.54.48:174][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002819s)
+[2017.01.03-18.54.48:175][596]LogAIModule: Creating AISystem for world GameLevel
+[2017.01.03-18.54.48:176][596]LogPlayLevel: PIE: World Init took: (0.001769s)
+[2017.01.03-18.54.48:176][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GameLevel.GameLevel to /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel (0.005180s)
+[2017.01.03-18.54.48:223][596]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.03-18.54.48:243][596]LogInit: FAudioDevice initialized.
+[2017.01.03-18.54.48:288][596]LogLoad: Game class is 'BP_GameMode_C'
+[2017.01.03-18.54.48:293][596]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.01.03-18.54.48
+[2017.01.03-18.54.48:294][596]LogWorld: Bringing up level for play took: 0.002502
+[2017.01.03-18.54.48:297][596]PIE: Info Play in editor start time for /Game/Assets/Levels/UEDPIE_0_GameLevel 0.773
+[2017.01.03-18.55.17:640][860]LogSavePackage: Save=36.43ms
+[2017.01.03-18.55.17:640][860]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/GameLevel_Auto37DEF7B664623E322BFAF0BA0F0C39E9F.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Levels/GameLevel_Auto3.umap'
+[2017.01.03-18.55.17:644][860]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Levels/GameLevel_Auto3.umap
+[2017.01.03-18.55.17:648][860]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Levels/GameLevel' took 0.118
+[2017.01.03-18.55.17:648][860]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.118
+[2017.01.03-18.55.17:654][860]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/BP_GameBoard] ([1] browsable assets)...
+[2017.01.03-18.55.17:720][860]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/BP_GameBoard.BP_GameBoard]
+[2017.01.03-18.55.17:720][860]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/BP_GameBoard]
+[2017.01.03-18.55.17:782][860]LogSavePackage: Save=54.34ms
+[2017.01.03-18.55.17:782][860]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/BP_GameBoard_Auto32DB04C164D7D2328F7A0829EC325FCF8.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Blueprints/BP_GameBoard_Auto3.uasset'
+[2017.01.03-18.55.17:786][860]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Blueprints/BP_GameBoard_Auto3.uasset
+[2017.01.03-18.55.17:786][860]LogFileHelpers: Auto-saving content packages took 0.135
+[2017.01.03-18.55.26:020][198]LogEditorViewport: Clicking Background
+[2017.01.03-18.55.49:554][420]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2017.01.03-18.55.50:111][438]LogEditorViewport: Clicking Background
+[2017.01.03-19.16.25:615][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/BP_GameBoard" FILE="../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Blueprints/BP_GameBoard.uasset" SILENT=true
+[2017.01.03-19.16.25:659][337]LogSavePackage: Save=28.30ms
+[2017.01.03-19.16.25:659][337]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/BP_GameBoard3C078B0441B2D3F8F36D2A9068559B64.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Blueprints/BP_GameBoard.uasset'
+[2017.01.03-19.16.25:673][337]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Blueprints/BP_GameBoard.uasset
+[2017.01.03-19.16.25:947][337]LogSavePackage: Save=36.94ms
+[2017.01.03-19.16.25:947][337]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/GameLevel687DC73C4CDD52F4C04CDA92C614D641.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Levels/GameLevel.umap'
+[2017.01.03-19.16.25:961][337]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Levels/GameLevel.umap
+[2017.01.03-19.16.26:025][337]LogFileHelpers: Saving map 'GameLevel' took 0.344
+[2017.01.03-19.17.38:727][672]LogMaterial: Missing cached shader map for material MT_BaseCircle, compiling. 
+[2017.01.03-19.17.39:941][697]LogMaterial: Missing cached shader map for material MT_BaseCircle, compiling. 
+[2017.01.03-19.17.40:425][697]LogMaterial: Missing cached shader map for material MT_BaseCircle, compiling. 
+[2017.01.03-19.17.40:499][697]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-19.17.40:533][697]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.01.03-19.17.40:557][697]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-19.17.51:068][108]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-19.17.51:068][108]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-19.17.51:068][108]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-19.17.51:068][108]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-19.17.54:218][268]LogMaterial: Missing cached shader map for material MT_BaseCircle, compiling. 
+[2017.01.03-19.17.54:272][268]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-19.17.54:308][268]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-19.17.58:586][480]LogMaterial: Missing cached shader map for material MT_BaseCircle, compiling. 
+[2017.01.03-19.17.58:673][480]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-19.17.58:708][480]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-19.18.00:917][584]LogMaterial: Missing cached shader map for material MT_BaseCircle, compiling. 
+[2017.01.03-19.18.00:999][584]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-19.18.01:035][584]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-19.18.03:017][672]LogMaterial: Missing cached shader map for material MT_BaseCircle, compiling. 
+[2017.01.03-19.18.03:105][672]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-19.18.03:143][672]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-19.18.08:934][895]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-19.18.08:934][895]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-19.18.08:934][895]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-19.18.08:934][895]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-19.18.14:692][224]LogMaterial: Missing cached shader map for material MT_BaseCircle, compiling. 
+[2017.01.03-19.18.14:746][224]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-19.18.14:780][224]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-19.18.18:724][404]LogMaterial: Missing cached shader map for material MT_BaseCircle, compiling. 
+[2017.01.03-19.18.18:807][404]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-19.18.18:839][404]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-19.18.24:520][655]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-19.18.24:520][655]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-19.18.24:521][655]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-19.18.24:521][655]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-19.18.35:751][388]LogMaterial: Missing cached shader map for material MT_BaseCircle, compiling. 
+[2017.01.03-19.18.35:805][388]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-19.18.35:837][388]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-19.18.38:675][532]LogMaterial: Missing cached shader map for material MT_BaseCircle, compiling. 
+[2017.01.03-19.18.38:742][532]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-19.18.38:778][532]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.01.03-19.18.44:581][772]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2017.01.03-19.18.44:581][772]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 66 instructions
+[2017.01.03-19.18.44:581][772]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-19.18.44:581][772]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-19.18.58:399][681]LogMaterialEditor: Saving and Compiling material MT_BaseCircle
+[2017.01.03-19.19.00:254][681]LogMaterial: Missing cached shader map for material MT_BaseCircle, compiling. 
+[2017.01.03-19.19.00:366][681]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-19.19.00:581][681]LogMaterial: Missing cached shader map for material MT_BaseCircle, compiling. 
+[2017.01.03-19.19.00:729][681]LogMaterial: Missing cached shader map for material MT_BaseCircle, compiling. 
+[2017.01.03-19.19.00:835][681]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.03-19.19.12:349][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/MT_BaseCircle" FILE="../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_BaseCircle.uasset" SILENT=true
+[2017.01.03-19.19.12:395][681]LogSavePackage: Save=41.21ms
+[2017.01.03-19.19.12:395][681]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/MT_BaseCircleFF36F717448B6D01034143955967253A.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_BaseCircle.uasset'
+[2017.01.03-19.19.12:403][681]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Materials/MT_BaseCircle.uasset
+[2017.01.03-19.19.12:458][681]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 53 instructions
+[2017.01.03-19.19.12:459][681]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 89 instructions
+[2017.01.03-19.19.12:459][681]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.03-19.19.12:459][681]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.03-19.21.54:547][944]LogSavePackage: Save=35.79ms
+[2017.01.03-19.21.54:548][944]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/SM_BaseCircleBA3B97CD46EC444227617C941F1F1E1C.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/StaticMeshes/SM_BaseCircle.uasset'
+[2017.01.03-19.21.54:556][944]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/StaticMeshes/SM_BaseCircle.uasset
+[2017.01.03-19.23.15:848][552]BlueprintLog: New page: Compile BP_CirclePiece
+[2017.01.03-19.23.16:860][559]LogSavePackage: Save=54.14ms
+[2017.01.03-19.23.16:860][559]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/BP_CirclePieceECF313DF459563748EF22BB2FB255385.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Blueprints/BP_CirclePiece.uasset'
+[2017.01.03-19.23.16:868][559]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Blueprints/BP_CirclePiece.uasset
+[2017.01.03-19.25.55:459][711]BlueprintLog: New page: Compile BP_GameBoard
+[2017.01.03-19.27.08:322][665]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Levels/GameLevel' took 0.016
+[2017.01.03-19.27.08:323][665]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/BP_GameBoard] ([1] browsable assets)...
+[2017.01.03-19.27.08:358][665]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/BP_GameBoard.BP_GameBoard]
+[2017.01.03-19.27.08:358][665]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/BP_GameBoard]
+[2017.01.03-19.27.08:378][665]LogSavePackage: Save=15.14ms
+[2017.01.03-19.27.08:378][665]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/BP_GameBoard_Auto4557EBD4A4A171F0CE45A949BCFC507A9.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Blueprints/BP_GameBoard_Auto4.uasset'
+[2017.01.03-19.27.08:379][665]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Blueprints/BP_GameBoard_Auto4.uasset
+[2017.01.03-19.27.08:380][665]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/BP_CirclePiece] ([1] browsable assets)...
+[2017.01.03-19.27.08:414][665]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece]
+[2017.01.03-19.27.08:414][665]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/BP_CirclePiece]
+[2017.01.03-19.27.08:433][665]LogSavePackage: Save=15.00ms
+[2017.01.03-19.27.08:433][665]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/BP_CirclePiece_Auto4B936BEE24EF5E176A456BA908778D03C.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Blueprints/BP_CirclePiece_Auto4.uasset'
+[2017.01.03-19.27.08:434][665]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/Autosaves/Game/Assets/Blueprints/BP_CirclePiece_Auto4.uasset
+[2017.01.03-19.27.08:434][665]LogFileHelpers: Auto-saving content packages took 0.111
+[2017.01.03-19.29.12:589][408]LogEnum:Warning: In asset 'None', there is an enum property of type 'PlayerColours' with an invalid value of 'PlayerColours::NewEnumerator0'
+[2017.01.03-19.29.25:695][972]LogEnum:Warning: In asset 'None', there is an enum property of type 'PlayerColours' with an invalid value of 'PlayerColours::NewEnumerator1'
+[2017.01.03-19.29.32:735][807]LogEnum:Warning: In asset 'None', there is an enum property of type 'PlayerColours' with an invalid value of 'PlayerColours::NewEnumerator2'
+[2017.01.03-19.29.41:447][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/PlayerColours" FILE="../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Blueprints/PlayerColours.uasset" SILENT=true
+[2017.01.03-19.29.41:452][827]LogSavePackage: Save=1.74ms
+[2017.01.03-19.29.41:452][827]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/PlayerColoursF9A9A5464D581C761D7EBD9B70FE3AA7.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Blueprints/PlayerColours.uasset'
+[2017.01.03-19.29.41:454][827]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Blueprints/PlayerColours.uasset
+[2017.01.03-19.30.18:498][458]LogMetaData: Removing '/Game/Assets/Blueprints/E_PlayerColours.E_PlayerColours' ref from Metadata '/Game/Assets/Blueprints/PlayerColours.PackageMetaData'
+[2017.01.03-19.30.18:670][458]LogSavePackage: Save=5.55ms
+[2017.01.03-19.30.18:671][458]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/E_PlayerColours2D7B50A2467C7C751CD02690B4D5A1A4.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Blueprints/E_PlayerColours.uasset'
+[2017.01.03-19.30.18:679][458]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/Assets/Blueprints/E_PlayerColours.uasset
+[2017.01.03-19.30.26:909][ 65]BlueprintLog: New page: Compile BP_GameBoard
+[2017.01.03-19.30.43:336][680]LogTexture:Display: Building textures: HDRI_Epic_Courtyard_Daylight (RGBA16F)
+[2017.01.03-19.31.12:672][680]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.03-19.31.12:825][680]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.03-19.31.12:856][680]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.03-19.31.12:863][680]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.03-19.31.12:866][680]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.03-19.31.12:873][680]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.03-19.31.12:879][680]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.03-19.31.12:896][680]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.03-19.31.12:925][680]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.03-19.31.12:929][680]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.03-19.31.12:933][680]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.03-19.31.12:937][680]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.03-19.31.12:945][680]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.03-19.31.12:967][680]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.03-19.31.12:971][680]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.03-19.31.12:973][680]LogSavePackage: Save=369.08ms
+[2017.01.03-19.31.12:974][680]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.03-19.31.12:974][680]LogSavePackage: Moving '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Saved/BP_LightStudio317CA39748F0981E2A1646843E805DB3.tmp' to '../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/StarterContent/Blueprints/BP_LightStudio.uasset'
+[2017.01.03-19.31.12:980][680]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.03-19.31.12:982][680]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/User/Desktop/NaughtsNCrosses/NaughtsNCrosses/Content/StarterContent/Blueprints/BP_LightStudio.uasset
+[2017.01.03-19.31.13:020][681]LogSlate:Warning: Slate: Had to block on waiting for a draw buffer
+[2017.01.03-19.31.16:743][681]LogTexture:Display: Building textures: T_Brick_Clay_Beveled_N (BC5)
+[2017.01.03-19.31.17:420][681]LogTexture:Display: Building textures: T_Brick_Clay_Beveled_M (AutoDXT)
+[2017.01.03-19.31.20:342][681]LogTexture:Display: Building textures: T_Brick_Clay_Beveled_D (AutoDXT)
+[2017.01.03-19.31.26:035][681]LogTexture:Display: Building textures: T_CobbleStone_Rough_D (AutoDXT)
+[2017.01.03-19.31.28:939][681]LogTexture:Display: Building textures: T_CobbleStone_Rough_N (BC5)
+[2017.01.03-19.31.30:128][681]LogTexture:Display: Building textures: T_Rock_Smooth_Granite_D (AutoDXT)
+[2017.01.03-19.31.34:145][681]LogTexture:Display: Building textures: T_Gradinet_01 (AutoDXT)
+[2017.01.03-19.31.34:952][681]LogTexture:Display: Building textures: T_CobbleStone_Pebble_N (BC5)
+[2017.01.03-19.31.35:882][681]LogTexture:Display: Building textures: T_CobbleStone_Pebble_M (AutoDXT)
+[2017.01.03-19.31.37:417][681]LogTexture:Display: Building textures: T_CobbleStone_Pebble_D (AutoDXT)
+[2017.01.03-19.31.42:082][681]LogTexture:Display: Building textures: T_Rock_Marble_Polished_D (AutoDXT)
+[2017.01.03-19.31.43:729][681]LogTexture:Display: Building textures: T_Ceramic_Tile_N (BC5)
+[2017.01.03-19.31.44:091][681]LogTexture:Display: Building textures: T_Ceramic_Tile_M (DXT1)
+[2017.01.03-19.31.44:905][681]LogTexture:Display: Building textures: T_Perlin_Noise_M (AutoDXT)
+[2017.01.03-19.31.48:928][681]LogTexture:Display: Building textures: T_Brick_Hewn_Stone_N (BC5)
+[2017.01.03-19.31.49:568][681]LogTexture:Display: Building textures: T_Brick_Hewn_Stone_M (AutoDXT)
+[2017.01.03-19.31.54:565][681]LogTexture:Display: Building textures: T_Brick_Hewn_Stone_D (AutoDXT)
+[2017.01.03-19.31.59:475][681]LogTexture:Display: Building textures: T_Detail_Rocky_N (BC5)
+[2017.01.03-19.32.00:030][681]LogTexture:Display: Building textures: T_Brick_Cut_Stone_N (BC5)
+[2017.01.03-19.32.01:099][681]LogTexture:Display: Building textures: T_Brick_Cut_Stone_D (AutoDXT)
+[2017.01.03-19.32.05:496][681]LogTexture:Display: Building textures: T_Concrete_Tiles_Variation_M (AutoDXT)
+[2017.01.03-19.32.05:861][681]LogTexture:Display: Building textures: T_Concrete_Tiles_N (BC5)
+[2017.01.03-19.32.06:591][681]LogTexture:Display: Building textures: T_Brick_Clay_Old_N (BC5)
+[2017.01.03-19.32.07:269][681]LogTexture:Display: Building textures: T_Brick_Clay_Old_D (AutoDXT)
+[2017.01.03-19.32.09:960][681]LogTexture:Display: Building textures: T_Brick_Clay_New_N (BC5)
+[2017.01.03-19.32.10:591][681]LogTexture:Display: Building textures: T_Brick_Clay_New_M (AutoDXT)
+[2017.01.03-19.32.15:607][681]LogTexture:Display: Building textures: T_Brick_Clay_New_D (AutoDXT)
+[2017.01.03-19.32.20:040][681]LogTexture:Display: Building textures: T_Water_N (BC5)
+[2017.01.03-19.32.20:875][681]LogTexture:Display: Building textures: T_Smoke_SubUV (AutoDXT)
+[2017.01.03-19.32.23:737][681]LogTexture:Display: Building textures: T_Smoke_Tiled_D (AutoDXT)
+[2017.01.03-19.32.23:857][681]LogTexture:Display: Building textures: T_Fire_SubUV (AutoDXT)
+[2017.01.03-19.32.24:199][681]LogTexture:Display: Building textures: T_Fire_Tiled_D (AutoDXT)
+[2017.01.03-19.32.24:615][681]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2017.01.03-19.32.25:282][681]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2017.01.03-19.32.25:861][681]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2017.01.03-19.32.26:349][681]LogTexture:Display: Building textures: HQ_Lightmap0_4 (AutoDXT)
+[2017.01.03-19.32.26:457][681]LogTexture:Display: Building textures: HQ_Lightmap1_5 (AutoDXT)
+[2017.01.03-19.32.26:468][681]LogTexture:Display: Building textures: HQ_Lightmap1_6 (AutoDXT)
+[2017.01.03-19.32.26:516][681]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2017.01.03-19.32.26:796][681]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2017.01.03-19.32.27:019][681]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2017.01.03-19.32.27:149][681]LogTexture:Display: Building textures: LQ_Lightmap_0_4 (DXT1)
+[2017.01.03-19.32.27:185][681]LogTexture:Display: Building textures: LQ_Lightmap_1_5 (DXT1)
+[2017.01.03-19.32.27:189][681]LogTexture:Display: Building textures: LQ_Lightmap_1_6 (DXT1)
+[2017.01.03-19.32.27:204][681]LogTexture:Display: Building textures: T_Spark_Core (AutoDXT)
+[2017.01.03-19.32.27:320][681]LogTexture:Display: Building textures: T_Dust_Particle_D (AutoDXT)
+[2017.01.03-19.32.27:349][681]LogTexture:Display: Building textures: ShadowMapTexture2D_10 (BGRA8)
+[2017.01.03-19.32.27:378][681]LogTexture:Display: Building textures: ShadowMapTexture2D_6 (BGRA8)
+[2017.01.03-19.32.27:493][681]LogTexture:Display: Building textures: ShadowMapTexture2D_7 (BGRA8)
+[2017.01.03-19.32.27:525][681]LogTexture:Display: Building textures: ShadowMapTexture2D_8 (BGRA8)
+[2017.01.03-19.32.27:546][681]LogTexture:Display: Building textures: ShadowMapTexture2D_9 (BGRA8)
+[2017.01.03-19.32.27:825][681]LogTexture:Display: Building textures: ThumbnailTexture (DXT1)
+[2017.01.03-19.32.27:922][681]LogTexture:Display: Building textures: ThumbnailTexture (DXT1)
+[2017.01.03-19.32.27:949][681]LogTexture:Display: Building textures: ThumbnailTexture (DXT1)
+[2017.01.03-19.32.28:007][681]LogTexture:Display: Building textures: T_Tech_Dot_N (BC5)
+[2017.01.03-19.32.28:030][681]LogTexture:Display: Building textures: T_Tech_Dot_M (AutoDXT)
+[2017.01.03-19.32.28:386][681]LogTexture:Display: Building textures: T_Rock_Slate_N (BC5)
+[2017.01.03-19.32.29:111][681]LogTexture:Display: Building textures: T_Rock_Slate_D (AutoDXT)
