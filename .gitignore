@@ -60,3 +60,13 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+*.opensdf
+ *.log
+ *.sdf
+ *.sln
+ *.suo
+ *\Logs
+ Binaries
+ DerivedDataCache
+ Intermediate
